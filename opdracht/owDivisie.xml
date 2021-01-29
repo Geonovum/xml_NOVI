@@ -180,7 +180,8 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20210008</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/externeveiligheid/id/concept/ExterneVeiligheid</vt:thema>
+               <!-- wordt vanaf 1.0.7 http://standaarden.omgevingswet.overheid.nl/externeveiligheid/id/concept/ExterneVeiligheid -->
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/veiligheid/id/concept/VeiligheidExterneVeiligheid</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20210008"/>
                </vt:divisieaanduiding>
@@ -257,7 +258,8 @@
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20210012</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <vt:thema>http://standaarden.omgevingswet.overheid.nl/landschap/id/concept/Landschap</vt:thema>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/cultureelerfgoed/id/concept/CultureelErfgoed</vt:thema>
+               <!-- wordt vanaf 1.0.7 http://standaarden.omgevingswet.overheid.nl/cultureelerfgoed/id/concept/CultureelErfgoed -->
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/cultureelerfgoedenlandschap/id/concept/CultureelErfgoedEnLandschapCultureelErfgoed</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20210012"/>
                </vt:divisieaanduiding>
@@ -660,7 +662,8 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20210031</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/cultureelerfgoed/id/concept/CultureelErfgoed</vt:thema>
+               <!-- wordt vanaf 1.0.7 http://standaarden.omgevingswet.overheid.nl/cultureelerfgoed/id/concept/CultureelErfgoed -->
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/cultureelerfgoedenlandschap/id/concept/CultureelErfgoedEnLandschapCultureelErfgoed</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20210031"/>
                </vt:divisieaanduiding>
