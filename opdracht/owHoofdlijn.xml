@@ -385,7 +385,8 @@
             <vt:Hoofdlijn>
                <vt:identificatie>nl.imow-mnre1034.hoofdlijn.20210070</vt:identificatie>
                <vt:soort>Beleidskeuze</vt:soort>
-               <vt:naam>2.7. Locaties van nieuwe kantoren, bedrijventerreinen en (groot)winkelbedrijven moeten passen bij het verkeers- en vervoersnetwerk, goed afgestemd zijn op de vraag van bedrijven én de economische vitaliteit en de kwaliteit en aantrekkelijkheid van stad en land versterken.</vt:naam>
+               <!-- volledige vt:naam is '2.7. Locaties van nieuwe kantoren, bedrijventerreinen en (groot)winkelbedrijven moeten passen bij het verkeers- en vervoersnetwerk, goed afgestemd zijn op de vraag van bedrijven én de economische vitaliteit en de kwaliteit en aantrekkelijkheid van stad en land versterken.' -->
+               <vt:naam>2.7. Locaties van nieuwe kantoren, bedrijventerreinen en (groot)winkelbedrijven moeten passen bij het verkeers- en vervoersnetwerk, goed afgestemd zijn op de vraag van bedrijven én de economische vitaliteit en de kwaliteit en aantrekkelijkheid van ...</vt:naam>
             </vt:Hoofdlijn>
          </ow-dc:owObject>
       </sl:stand>
