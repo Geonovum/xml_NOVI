@@ -130,7 +130,7 @@
                            </Figuur>
                         </Inhoud>
                      </Divisietekst>
-                     <Divisie eId="div_o_1__div_o_1" wId="mnre1034_1__div_o_1__div_o_1">
+                     <Divisie eId="div_o_1__div_o_1" wId="mnre1034_1__div_o_1__div_o_1" eigen:niveau="2">
                         <Kop>
                            <Opschrift>Samenvatting</Opschrift>
                         </Kop>
