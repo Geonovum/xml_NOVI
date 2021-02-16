@@ -18,16 +18,8 @@
       <lvbb:contentType>application/xml</lvbb:contentType>
    </lvbb:bestand>
    <lvbb:bestand>
-      <lvbb:bestandsnaam>nederland.gml</lvbb:bestandsnaam>
+      <lvbb:bestandsnaam>Locatie-NL-T-EEZ.gml</lvbb:bestandsnaam>
       <lvbb:contentType>application/gml+xml</lvbb:contentType>
-   </lvbb:bestand>
-   <lvbb:bestand>
-      <lvbb:bestandsnaam>001.jpeg</lvbb:bestandsnaam>
-      <lvbb:contentType>image/jpeg</lvbb:contentType>
-   </lvbb:bestand>
-   <lvbb:bestand>
-      <lvbb:bestandsnaam>002.jpeg</lvbb:bestandsnaam>
-      <lvbb:contentType>image/jpeg</lvbb:contentType>
    </lvbb:bestand>
    <lvbb:bestand>
       <lvbb:bestandsnaam>003.jpeg</lvbb:bestandsnaam>
@@ -39,10 +31,6 @@
    </lvbb:bestand>
    <lvbb:bestand>
       <lvbb:bestandsnaam>005.jpeg</lvbb:bestandsnaam>
-      <lvbb:contentType>image/jpeg</lvbb:contentType>
-   </lvbb:bestand>
-   <lvbb:bestand>
-      <lvbb:bestandsnaam>006.jpeg</lvbb:bestandsnaam>
       <lvbb:contentType>image/jpeg</lvbb:contentType>
    </lvbb:bestand>
    <lvbb:bestand>
@@ -90,10 +78,6 @@
       <lvbb:contentType>image/jpeg</lvbb:contentType>
    </lvbb:bestand>
    <lvbb:bestand>
-      <lvbb:bestandsnaam>018.jpeg</lvbb:bestandsnaam>
-      <lvbb:contentType>image/jpeg</lvbb:contentType>
-   </lvbb:bestand>
-   <lvbb:bestand>
       <lvbb:bestandsnaam>019.jpeg</lvbb:bestandsnaam>
       <lvbb:contentType>image/jpeg</lvbb:contentType>
    </lvbb:bestand>
@@ -122,10 +106,6 @@
       <lvbb:contentType>image/jpeg</lvbb:contentType>
    </lvbb:bestand>
    <lvbb:bestand>
-      <lvbb:bestandsnaam>026.jpeg</lvbb:bestandsnaam>
-      <lvbb:contentType>image/jpeg</lvbb:contentType>
-   </lvbb:bestand>
-   <lvbb:bestand>
       <lvbb:bestandsnaam>027.jpeg</lvbb:bestandsnaam>
       <lvbb:contentType>image/jpeg</lvbb:contentType>
    </lvbb:bestand>
@@ -139,10 +119,6 @@
    </lvbb:bestand>
    <lvbb:bestand>
       <lvbb:bestandsnaam>030.jpeg</lvbb:bestandsnaam>
-      <lvbb:contentType>image/jpeg</lvbb:contentType>
-   </lvbb:bestand>
-   <lvbb:bestand>
-      <lvbb:bestandsnaam>031.jpeg</lvbb:bestandsnaam>
       <lvbb:contentType>image/jpeg</lvbb:contentType>
    </lvbb:bestand>
    <lvbb:bestand>
@@ -183,10 +159,6 @@
    </lvbb:bestand>
    <lvbb:bestand>
       <lvbb:bestandsnaam>041.jpeg</lvbb:bestandsnaam>
-      <lvbb:contentType>image/jpeg</lvbb:contentType>
-   </lvbb:bestand>
-   <lvbb:bestand>
-      <lvbb:bestandsnaam>042.jpeg</lvbb:bestandsnaam>
       <lvbb:contentType>image/jpeg</lvbb:contentType>
    </lvbb:bestand>
    <lvbb:bestand>
@@ -231,10 +203,6 @@
    </lvbb:bestand>
    <lvbb:bestand>
       <lvbb:bestandsnaam>053.jpeg</lvbb:bestandsnaam>
-      <lvbb:contentType>image/jpeg</lvbb:contentType>
-   </lvbb:bestand>
-   <lvbb:bestand>
-      <lvbb:bestandsnaam>054.jpeg</lvbb:bestandsnaam>
       <lvbb:contentType>image/jpeg</lvbb:contentType>
    </lvbb:bestand>
    <lvbb:bestand>
@@ -338,10 +306,6 @@
       <lvbb:contentType>image/jpeg</lvbb:contentType>
    </lvbb:bestand>
    <lvbb:bestand>
-      <lvbb:bestandsnaam>080.jpeg</lvbb:bestandsnaam>
-      <lvbb:contentType>image/jpeg</lvbb:contentType>
-   </lvbb:bestand>
-   <lvbb:bestand>
       <lvbb:bestandsnaam>081.jpeg</lvbb:bestandsnaam>
       <lvbb:contentType>image/jpeg</lvbb:contentType>
    </lvbb:bestand>
@@ -391,10 +355,6 @@
    </lvbb:bestand>
    <lvbb:bestand>
       <lvbb:bestandsnaam>093.jpeg</lvbb:bestandsnaam>
-      <lvbb:contentType>image/jpeg</lvbb:contentType>
-   </lvbb:bestand>
-   <lvbb:bestand>
-      <lvbb:bestandsnaam>094.jpeg</lvbb:bestandsnaam>
       <lvbb:contentType>image/jpeg</lvbb:contentType>
    </lvbb:bestand>
    <lvbb:bestand>

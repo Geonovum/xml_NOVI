@@ -1334,5 +1334,68 @@
             </vt:Tekstdeel>
          </ow-dc:owObject>
       </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisie wId="mnre1034_1__div_o_1__div_4__div_4.1__div_o_1">
+               <vt:identificatie>nl.imow-mnre1034.divisie.20210063</vt:identificatie>
+            </vt:Divisie>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.20210063</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20210063"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.20210086"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisie wId="mnre1034_1__div_o_1__div_4__div_4.1__div_o_2">
+               <vt:identificatie>nl.imow-mnre1034.divisie.20210064</vt:identificatie>
+            </vt:Divisie>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.20210064</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20210064"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.20210087"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisie wId="mnre1034_1__div_o_1__div_4__div_4.1__div_o_3">
+               <vt:identificatie>nl.imow-mnre1034.divisie.20210065</vt:identificatie>
+            </vt:Divisie>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.20210065</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20210065"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.20210088"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
    </sl:standBestand>
 </ow-dc:owBestand>

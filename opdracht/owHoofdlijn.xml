@@ -475,7 +475,7 @@
          <ow-dc:owObject>
             <vt:Hoofdlijn>
                <vt:identificatie>nl.imow-mnre1034.hoofdlijn.20210080</vt:identificatie>
-               <vt:soort>beleidskeuze</vt:soort>
+               <vt:soort>Beleidskeuze</vt:soort>
                <vt:naam>3.9. Voor gebieden buiten het Stedelijk Netwerk Nederland ontwikkelen de overheden gezamenlijk een integrale gebiedsgerichte ontwikkelstrategie.</vt:naam>
             </vt:Hoofdlijn>
          </ow-dc:owObject>
@@ -513,6 +513,33 @@
                <vt:identificatie>nl.imow-mnre1034.hoofdlijn.20210085</vt:identificatie>
                <vt:soort>Beleidskeuze</vt:soort>
                <vt:naam>4.4. Unieke landschappelijke kwaliteiten worden versterkt en beschermd.</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-mnre1034.hoofdlijn.20210086</vt:identificatie>
+               <vt:soort>Afwegingsprincipe</vt:soort>
+               <vt:naam>Afwegingsprincipe 1: Combinaties van functies gaan voor enkelvoudige functies</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-mnre1034.hoofdlijn.20210087</vt:identificatie>
+               <vt:soort>Afwegingsprincipe</vt:soort>
+               <vt:naam>Afwegingsprincipe 2: Kenmerken en identiteit van een gebied staan centraal</vt:naam>
+            </vt:Hoofdlijn>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Hoofdlijn>
+               <vt:identificatie>nl.imow-mnre1034.hoofdlijn.20210088</vt:identificatie>
+               <vt:soort>Afwegingsprincipe</vt:soort>
+               <vt:naam>Afwegingsprincipe 3: Afwentelen wordt voorkomen</vt:naam>
             </vt:Hoofdlijn>
          </ow-dc:owObject>
       </sl:stand>
