@@ -1334,6 +1334,7 @@
             </vt:Tekstdeel>
          </ow-dc:owObject>
       </sl:stand>
+      <!-- correctie 2021-02-16 -->
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="mnre1034_1__div_o_1__div_4__div_4.1__div_o_1">
@@ -1394,6 +1395,49 @@
                <vt:hoofdlijnaanduiding>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.20210088"/>
                </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!-- ten behoeve van 'klik op kaart' -->
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisie wId="mnre1034_1__div_o_1">
+               <vt:identificatie>nl.imow-mnre1034.divisie.20210066</vt:identificatie>
+            </vt:Divisie>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.20210066</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20210066"/>
+               </vt:divisieaanduiding>
+               <vt:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.20210001"/>
+               </vt:locatieaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisie wId="mnre1034_1__div_o_2">
+               <vt:identificatie>nl.imow-mnre1034.divisie.20210067</vt:identificatie>
+            </vt:Divisie>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.20210067</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20210067"/>
+               </vt:divisieaanduiding>
+               <vt:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.gebied.20210001"/>
+               </vt:locatieaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
       </sl:stand>
