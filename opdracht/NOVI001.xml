@@ -3180,8 +3180,7 @@
                                        <Inhoud>
                                           <Al>Bij het vinden van de maatschappelijke balans op de Noordzee moet de relatie met de ruimtelijk-economische ontwikkeling van de aangrenzende delen van Nederland worden betrokken alsook de ruimtelijke invloed op het land. De windenergie van zee landt op een beperkt aantal plaatsen langs de kust aan op het landelijk hoogspanningsnet (in geval van elektriciteit) of gasnetwerk (in geval van moleculen zoals waterstof). Bij de keuze van tracés en aanlandplaatsen houden we rekening met de ruimtelijke invloed op land, met het bestaande net, milieu en de leefomgeving. Om de energie van zee optimaal te gebruiken, wordt aanlanding hiervan aan de kust en de energie-intensieve bedrijvigheid (zowel industrie als bijvoorbeeld datacenters) waar mogelijk verder geconcentreerd. Dit voorkomt onnodig transport van energie naar het binnenland en daarmee samenhangende nieuwe infrastructuur en het daaraan gekoppelde ruimtebeslag. Als een verdere doorgroei van windenergie op zee naar 2050 opportuun is door een stijgende vraag naar elektriciteit, zijn mogelijk ook aanlandingslocaties meer landinwaarts nodig. Voor verder landinwaarts gelegen industriële clusters, zoals Chemical Cluster Emmen en Chemelot, worden voor duurzame energie ook andere mogelijkheden voor de energie-infrastructuur verkend, waarbij het behouden van een gelijk speelveld voor energiekosten een aandachtspunt is. Deze clusters van energie-intensieve bedrijvigheid maken tegelijkertijd een energietransitie en een transitie naar circulaire productiemethoden door. Deze bedrijven leveren ook veel restwarmte. Het is zeer wenselijk dat deze restwarmte wordt benut voor bijvoorbeeld verwarming van de gebouwde omgeving.</Al>
                                           <Al>De energietransitie heeft gevolgen voor de eisen die deze bedrijven aan de fysieke leefomgeving stellen. Soms kan meer ruimte nodig zijn of andere onderlinge verbindingen door nieuwe ketenvorming Daarnaast hebben deze veranderingen ook consequenties voor bijvoorbeeld woonlocaties of natuur in de omgeving.</Al>
-                                          <Kadertekst xmlns:eigen="www.eigen.nl"
-                                                      eId="div_o_1__div_4__div_4.2__div_4.2.1__div_o_2__div_o_3__content_o_1__recital_o_1"
+                                          <Kadertekst eId="div_o_1__div_4__div_4.2__div_4.2.1__div_o_2__div_o_3__content_o_1__recital_o_1"
                                                       wId="mnre1034_1__div_o_1__div_4__div_4.2__div_4.2.1__div_o_2__div_o_3__content_o_1__recital_o_1"
                                                       dso:class="toelichting_beleidskeuze">
                                              <Kop>
@@ -3391,8 +3390,7 @@
                                                   wId="mnre1034_1__div_o_1__div_4__div_4.2__div_4.2.1__div_o_4__div_o_4__content_o_1">
                                        <Inhoud>
                                           <Al>Daarnaast zijn er mogelijkheden voor biomassa uit bijvoorbeeld reststromen in de landbouw. Duurzame biomassa is een onmisbaar onderdeel in de klimaatopgave en de transitie naar een circulaire economie in Nederland. Ook is het de verwachting dat niet alleen in Nederland maar ook mondiaal duurzame biomassa op termijn maar beperkt beschikbaar is, terwijl er veel vraag naar zal zijn. Het beleid van het kabinet heeft tot doel om op een verantwoorde en effectieve manier duurzame biomassa te benutten.</Al>
-                                          <Kadertekst xmlns:eigen="www.eigen.nl"
-                                                      eId="div_o_1__div_4__div_4.2__div_4.2.1__div_o_4__div_o_4__content_o_1__recital_o_1"
+                                          <Kadertekst eId="div_o_1__div_4__div_4.2__div_4.2.1__div_o_4__div_o_4__content_o_1__recital_o_1"
                                                       wId="mnre1034_1__div_o_1__div_4__div_4.2__div_4.2.1__div_o_4__div_o_4__content_o_1__recital_o_1"
                                                       dso:class="voorbeeld">
                                              <Kop>
@@ -3463,8 +3461,7 @@
                                        <Inhoud>
                                           <Al>De maatregelen in de RES’en worden in de regio gecombineerd met andere opgaven in het stedelijk en landelijk gebied. Ook komen reserveringen voor transport, distributie en opslag van energie aan bod. Omdat de veranderingen door deze maatregelen zo’n directe invloed hebben op de leefomgeving van mensen, en omdat maatregelen vaak een plek moeten krijgen in een al heel drukke omgeving, is het belangrijk om deze zoveel mogelijk in samenhang te plannen. In stedelijk gebied kunnen maatregelen voor de energietransitie bijvoorbeeld worden gecombineerd (en meegekoppeld) met de bouwopgave, met een gezonde, veilige en klimaatadaptieve inrichting van onze omgeving en met maatregelen voor bereikbaarheid en renovaties die om andere redenen worden ingezet. Hierdoor wordt overlast zo veel mogelijk beperkt en ontstaat een zo hoog mogelijke kwaliteit van de leefomgeving. Een belangrijke voorwaarde hiervoor is dat sprake is van driedimensionale ordening.</Al>
                                           <Al>De in de RES afgesproken maatregelen vinden via de provinciale en gemeentelijke omgevingsvisies hun weg in omgevingsplannen, -programma’s en -vergunningen van gemeenten. In het Klimaatakkoord is afgesproken dat voor 1 januari 2025 omgevingsvergunningen voor zon- en windprojecten zijn verleend.</Al>
-                                          <Kadertekst xmlns:eigen="www.eigen.nl"
-                                                      eId="div_o_1__div_4__div_4.2__div_4.2.1__div_o_4__div_o_5__content_o_1__recital_o_1"
+                                          <Kadertekst eId="div_o_1__div_4__div_4.2__div_4.2.1__div_o_4__div_o_5__content_o_1__recital_o_1"
                                                       wId="mnre1034_1__div_o_1__div_4__div_4.2__div_4.2.1__div_o_4__div_o_5__content_o_1__recital_o_1"
                                                       dso:class="toelichting_beleidskeuze">
                                              <Kop>
@@ -3638,8 +3635,7 @@
                                                   wId="mnre1034_1__div_o_1__div_4__div_4.2__div_4.2.2__div_o_2__div_o_3__content_o_1">
                                        <Inhoud>
                                           <Al>Voor alle energie-intensieve industrieën, waaronder ook datacenters, moeten duurzame energiebronnen worden gebruikt. De overgang van de import, gebruik en verwerking van fossiele brandstoffen naar duurzame energie vereist een transformatie van haven- en industriegebieden. Gelet op de verwachte lange transitieperiode zullen verschillende energiesystemen mogelijk tientallen jaren naast elkaar bestaan, wat mogelijk extra ruimtebeslag vergt. Dit betreft ruimte voor opslag, overslag, transport en gebruik van fossiele én niet-fossiele brandstoffen en reststoffen. Decentrale overheden hebben een essentiële rol om bedrijven te ondersteunen bij de overgang van lineaire naar circulaire productieprocessen.</Al>
-                                          <Kadertekst xmlns:eigen="www.eigen.nl"
-                                                      eId="div_o_1__div_4__div_4.2__div_4.2.2__div_o_2__div_o_3__content_o_1__recital_o_1"
+                                          <Kadertekst eId="div_o_1__div_4__div_4.2__div_4.2.2__div_o_2__div_o_3__content_o_1__recital_o_1"
                                                       wId="mnre1034_1__div_o_1__div_4__div_4.2__div_4.2.2__div_o_2__div_o_3__content_o_1__recital_o_1"
                                                       dso:class="toelichting_beleidskeuze">
                                              <Kop>
@@ -3665,8 +3661,7 @@
                                        <Inhoud>
                                           <Al>Het benutten van reststoffen door de industrie en restwarmte door tuinbouw, kantoren en woningen stelt eisen aan de nabijheid van aanbieders en gebruikers. Voor de bouwsector (woningbouw, grond-, weg- en waterbouw) ligt de uitdaging om nieuwe bouwwerken en woningen niet alleen natuurinclusief en klimaat- en energieneutraal, maar ook circulair te ontwerpen, ontwikkelen, (ver)bouwen en slopen. Grondstoffen moeten in de keten van de bouw zo veel mogelijk behouden blijven door hoogwaardig hergebruik en er moet meer gebruik gemaakt worden van hernieuwbare materialen (zoals houtbouw, hennep, asfalt met olifantsgras). Dit om een schone, veilige leefomgeving voor toekomstige generaties te behouden. Door gebouwen, waaronder woningen en kantoren, zoveel mogelijk aanpasbaar en flexibel te bouwen (circular by design), zijn deze voor meer generaties aantrekkelijk en zijn ze ook in de toekomst voor andere dan woonfuncties geschikt te maken.</Al>
                                           <Al>Aandacht voor nieuwe concepten in de bouwlogistiek kunnen transport en ruimtebeslag op de bouwplaats aanzienlijk verminderen. De ambitie is dat uiterlijk in 2050, maar liever eerder, de gebouwde omgeving circulair is. Bij bouwprojecten wordt hergebruik van materialen en van bouw- en sloopafval een vereiste. De MilieuPrestatie eis Gebouwen (MPG) zal richting 2050 stapsgewijs worden aangescherpt. Bij een locatiekeuze voor nieuwe vestigingen van zowel aanbieders als gebruikers van reststoffen en restwarmte is de afname dan wel beschikbaarheid van reststoffen en restwarmte een belangrijk criterium.</Al>
-                                          <Kadertekst xmlns:eigen="www.eigen.nl"
-                                                      eId="div_o_1__div_4__div_4.2__div_4.2.2__div_o_2__div_o_4__content_o_1__recital_o_1"
+                                          <Kadertekst eId="div_o_1__div_4__div_4.2__div_4.2.2__div_o_2__div_o_4__content_o_1__recital_o_1"
                                                       wId="mnre1034_1__div_o_1__div_4__div_4.2__div_4.2.2__div_o_2__div_o_4__content_o_1__recital_o_1"
                                                       dso:class="voorbeeld">
                                              <Al>Toekomstverkenningen naar de circulaire economie in ontwerpstudie ‘De Regio van de Toekomst’ van de Beroepsvereniging van Nederlandse Stedebouwkundigen en Planologen (BNSP) en de Nederlandse Vereniging voor Tuin- en Landschapsarchitectuur (NVTL)</Al>
@@ -3765,8 +3760,7 @@
                                                           uitlijning="start"/>
                                              <Bijschrift locatie="onder">Groei luchtvaart.<br/>Luchthaven Schiphol is van groot belang voor de Nederlandse concurrentiekracht.</Bijschrift>
                                           </Figuur>
-                                          <Kadertekst xmlns:eigen="www.eigen.nl"
-                                                      eId="div_o_1__div_4__div_4.2__div_4.2.2__div_o_3__div_o_1__content_o_1__recital_o_1"
+                                          <Kadertekst eId="div_o_1__div_4__div_4.2__div_4.2.2__div_o_3__div_o_1__content_o_1__recital_o_1"
                                                       wId="mnre1034_1__div_o_1__div_4__div_4.2__div_4.2.2__div_o_3__div_o_1__content_o_1__recital_o_1"
                                                       dso:class="toelichting_beleidskeuze">
                                              <Kop>
@@ -3840,8 +3834,7 @@
                                              <Al>Otto Raspe e.a., <i>De economie van de stad in de mondiale concurrentie</i>, Den Haag 2012, zie: https://www.pbl.nl/sites/default/files/downloads/PBL-2012-essays-toekomst-van-de-stad-de-economie-van-de-stad-in-de-mondiale-concurrentie.pdf</Al>
                                           </Noot>. Regionale bereikbaarheid en een goed functionerend woon-werkverkeer zijn voor het economisch functioneren van onze steden en Metropoolregio’s essentieel. Er is behoefte aan voldoende ontwikkelingsruimte voor een kwalitatief hoogwaardig aanbod aan werklocaties. De beschikbaarheid van goede en betaalbare woningen en een gezonde, schone, veilige en aantrekkelijke leefomgeving worden steeds bepalender voor het economische succes. Duurzame stedelijke groei en innovaties in mobiliteit zijn randvoorwaardelijk voor de groei van de stedelijke economie.</Al>
                                        <Al>Het vraagt extra inzet in de stedelijke regio’s om de leefomgevingskwaliteit, het milieu en de bereikbaarheid op peil te brengen, omdat dat bijdraagt aan een aantrekkelijk vestigingsklimaat. De overheid kan ruimte bieden aan dergelijke initiatieven en sociaal ondernemerschap om innovatie en verdere ontwikkeling van onze duurzame kenniseconomie te stimuleren. Meer duurzame mobiliteit wordt in stedelijke regio’s bereikt door het verbeteren van openbaar vervoer, het creëren van meer ruimte voor fietsers en voetgangers, het weren van vervuilende voertuigen en het vergroten van de laadmogelijkheden voor elektrische auto’s.</Al>
-                                       <Kadertekst xmlns:eigen="www.eigen.nl"
-                                                   eId="div_o_1__div_4__div_4.2__div_4.2.2__div_o_4__content_o_1__recital_o_2"
+                                       <Kadertekst eId="div_o_1__div_4__div_4.2__div_4.2.2__div_o_4__content_o_1__recital_o_2"
                                                    wId="mnre1034_1__div_o_1__div_4__div_4.2__div_4.2.2__div_o_4__content_o_1__recital_o_2"
                                                    dso:class="voorbeeld">
                                           <Kop>
@@ -4008,8 +4001,7 @@
                                                 <NootNummer>67</NootNummer>
                                                 <Al>BCI/EIB, <i>Economische ontwikkeling en toekomstige ruimtebehoefte van bedrijfstakken in Nederland</i>, 2019.</Al>
                                              </Noot>. In het kader van het Programma Verstedelijking en Wonen zullen de overheden gezamenlijk uitgangspunten vaststellen voor het bepalen van de behoefte. Bij het vaststellen van de behoefte aan nieuwe kantoren, winkels en bedrijventerreinen worden steeds de transformatiemogelijkheden van de bestaande terreinen betrokken. Dit beleid dient een nationaal belang, maar vraagt decentrale uitwerking. Om gebiedsgerichte opgaven, waaronder economische activiteiten, in samenhang te bezien met andere opgaven en waar nodig voor optimaal ruimtegebruik in samenhang uit te voeren, stellen overheden Omgevingsagenda’s op. De uitwerking van gebiedsgerichte opgaven gebeurt in samenwerking met bedrijfsleven, werknemersverenigingen, tussen overheden, maatschappelijke organisaties en inwoners. De kaders van de nationale belangen van de Rijksoverheid, zoals benoemd in de NOVI, staan hierbij centraal. Belangrijk aandachtspunt in Omgevingsagenda’s is of er daadwerkelijk extra afspraken nodig zijn of dat oplossingen binnen lopende trajecten kunnen worden gevonden. Daardoor is geen ruimte nodig of kunnen gebieden worden getransformeerd, bijvoorbeeld door beëindiging van sommige bedrijfsactiviteiten (denk bijvoorbeeld aan de overslag van steenkolen).</Al>
-                                          <Kadertekst xmlns:eigen="www.eigen.nl"
-                                                      eId="div_o_1__div_4__div_4.2__div_4.2.2__div_o_7__div_o_2__content_o_1__recital_o_1"
+                                          <Kadertekst eId="div_o_1__div_4__div_4.2__div_4.2.2__div_o_7__div_o_2__content_o_1__recital_o_1"
                                                       wId="mnre1034_1__div_o_1__div_4__div_4.2__div_4.2.2__div_o_7__div_o_2__content_o_1__recital_o_1"
                                                       dso:class="toelichting_beleidskeuze">
                                              <Kop>
@@ -4148,8 +4140,7 @@
                                                   wId="mnre1034_1__div_o_1__div_4__div_4.2__div_4.2.3__div_o_2__div_o_1__content_o_1">
                                        <Inhoud>
                                           <Al>Driekwart van de Nederlandse bevolking woont, werkt en leeft in stedelijk gebied en onze steden zijn belangrijk voor de economie. Het is essentieel dat onze steden gezond, aantrekkelijk, veilig en schoon zijn om in te wonen en te werken, dat er goede en betaalbare woningen beschikbaar zijn en dat woon- en werklocaties bereikbaar zijn. De relatief beperkte omvang van de Nederlandse steden kan daarbij een voordeel zijn. Het landelijke gebied en de natuur zijn relatief nabij, arbeidsplaatsen en voorzieningen zijn voorhanden of op korte afstand te bereiken. Dit draagt bij aan de kwaliteit van leven in de breedste zin van het woord. Ook de aanwezigheid van groen en water in de stad is belangrijk voor de kwaliteit van het stedelijk leven en de aantrekkelijkheid van de stad. Het biedt mogelijkheden voor recreatie en gezond bewegen en helpt bij het opvangen van de gevolgen van klimaatverandering. En onroerend cultureel erfgoed zoals monumenten, stads- en dorpsgezichten en cultuurlandschappen, speelt een belangrijke rol in de fysieke leefomgeving, zowel in stad als in regio. Erfgoed vormt een afspiegeling van de geschiedenis van Nederland en geeft daarmee duiding aan de identiteit van een gebied. Het kan bij transformatieprojecten een drager en inspiratiebron van de stedelijke ontwikkeling vormen.</Al>
-                                          <Kadertekst xmlns:eigen="www.eigen.nl"
-                                                      eId="div_o_1__div_4__div_4.2__div_4.2.3__div_o_2__div_o_1__content_o_1__recital_o_1"
+                                          <Kadertekst eId="div_o_1__div_4__div_4.2__div_4.2.3__div_o_2__div_o_1__content_o_1__recital_o_1"
                                                       wId="mnre1034_1__div_o_1__div_4__div_4.2__div_4.2.3__div_o_2__div_o_1__content_o_1__recital_o_1"
                                                       dso:class="toelichting_beleidskeuze">
                                              <Kop>
@@ -4181,8 +4172,7 @@
                                                 <NootNummer>69</NootNummer>
                                                 <Al>Regio’s Noord-Holland boven Noordzeekanaal, Breda-Tilburg, Arnhem-Nijmegen, Eindhoven, Haaglanden.</Al>
                                              </Noot> wordt als proef nu door betrokken partijen een Regionale Investeringsagenda opgesteld om dit instrument verder te ontwikkelen en te verfijnen. Ontwikkelingen in de regio kunnen ook negatieve effecten hebben op de omgevingskwaliteit buiten de eigen regio. Dan is overleg met die regio nodig om die effecten weg te nemen of te compenseren. Een voorbeeld hiervan is de stikstofproblematiek, waardoor het in de buurt van Natura 2000-gebieden nodig kan zijn om via een regionale gebiedsgerichte aanpak de negatieve effecten van een woongebied te beperken. In sommige regio’s spelen dusdanige nationale belangen (bijvoorbeeld voor wonen, economie, bereikbaarheid, digitalisering of leefomgevingskwaliteit) en vervult het Rijk ook zelf een rol, zodat het Rijk daar actief meedoet bij de invulling van de regionale verstedelijkingsstrategie en/of partij kan zijn bij het opstellen van een Regionale Investeringsagenda.</Al>
-                                          <Kadertekst xmlns:eigen="www.eigen.nl"
-                                                      eId="div_o_1__div_4__div_4.2__div_4.2.3__div_o_2__div_o_2__content_o_1__recital_o_1"
+                                          <Kadertekst eId="div_o_1__div_4__div_4.2__div_4.2.3__div_o_2__div_o_2__content_o_1__recital_o_1"
                                                       wId="mnre1034_1__div_o_1__div_4__div_4.2__div_4.2.3__div_o_2__div_o_2__content_o_1__recital_o_1"
                                                       dso:class="voorbeeld">
                                              <Kop>
@@ -4279,8 +4269,7 @@
                                                 <Al>OECD, Land Use Policies for Green Growth, november 2016.</Al>
                                              </Noot> Veranderingen in de economie zoals schaalvergroting en verdienstelijking van de industrie, leiden ertoe dat een deel van de bedrijventerreinen in het stedelijk gebied zijn functionele waarde verliest. In veel steden worden op die terreinen nu nieuwe geconcentreerde ontwikkelingen met een hoge dichtheid van woningen of arbeidsplaatsen gepland. Het vrijkomen van bedrijventerreinen, extra inzet op groen in de stad, een duurzaam mobiliteitssysteem met in hoogstedelijke gebieden minder ruimte voor de privé-auto en een goed ontwerp bieden Nederlandse steden daarbij de komende decennia goede mogelijkheden om te verdichten. Tegelijkertijd is duidelijk dat verdichting ook een extra druk legt op de stad en dat deze inzet dus extra aandacht vraagt voor de kwaliteit van het leven in de stad. Binnenstedelijk bouwen heeft vanuit het oogpunt van duurzaamheid en economie duidelijk de voorkeur, maar het is niet de bedoeling dat de verdichting afbreuk doet aan de kwaliteiten van de stad en de stedelijke regio als geheel. Daarmee zou de stad ook zijn aantrekkingskracht als gezonde en aantrekkelijke leefomgeving en goede werklocatie verliezen. Algemene normen of criteria wanneer verdichting niet meer te combineren is met kwaliteitsverbetering, zijn niet te geven. Daarvoor verschillen steden te veel in omvang, ruimtelijke mogelijkheden voor herontwikkeling en uitbreiding, maatschappelijke behoeften en prioriteiten. En met de loop van de tijd kunnen nieuwe ontwerpconcepten, technologische ontwikkeling en veranderingen in de financiële mogelijkheden weer nieuwe mogelijkheden scheppen. Er ligt een stevige ontwerpopgave om verdichting en kwaliteitsverbetering van de openbare ruimte en het stedelijk groen hand in hand te laten gaan. We kunnen met meer mensen in het stedelijk gebied wonen en tegelijkertijd de omgevingskwaliteit verhogen.</Al>
                                           <Al>Mogelijkheden om te bouwen in hoge dichtheden liggen er vooral in de binnensteden en nabij OV-knooppunten. De mogelijkheden daar willen we gebruiken voor woningtypen en werkomgevingen die zich lenen voor een dergelijke bebouwingsdichtheid. Woningtypen (bijvoorbeeld grondgebonden woningen) en werkomgevingen die meer ruimte vragen, zullen dan elders in het stedelijk gebied een plek moeten krijgen, maar bij voorkeur wel binnen bestaand bebouwd gebied. Een uitzondering daarop zijn bedrijventerreinen voor bedrijven die een zeer groot ruimtebeslag hebben en weinig personenverkeer aantrekken. Deze kunnen beter worden gerealiseerd buiten het bestaand bebouwd gebied, elders in de stedelijke regio op multimodaal ontsloten locaties aan de hoofdinfrastructuur voor wegvervoer en railvervoer en/of vervoer over water.</Al>
-                                          <Kadertekst xmlns:eigen="www.eigen.nl"
-                                                      eId="div_o_1__div_4__div_4.2__div_4.2.3__div_o_3__div_o_2__content_o_1__recital_o_1"
+                                          <Kadertekst eId="div_o_1__div_4__div_4.2__div_4.2.3__div_o_3__div_o_2__content_o_1__recital_o_1"
                                                       wId="mnre1034_1__div_o_1__div_4__div_4.2__div_4.2.3__div_o_3__div_o_2__content_o_1__recital_o_1"
                                                       dso:class="voorbeeld">
                                              <Kop>
@@ -4343,8 +4332,7 @@
                                           <Al>Wonen in de stedelijke gebieden is in trek en prijzen van woningen in het stedelijk gebied liggen daarom hoger. Een verdere trek naar de stad zorgt eveneens voor verdere verhoging van de prijzen. Verbetering van de kwaliteit van de stedelijke leefomgeving voegt daarnaast nog extra waarde toe aan de stad en het vastgoed in de stad en leidt niet alleen tot meer welvaart, maar in beginsel ook tot hogere prijzen.</Al>
                                           <Al>Extra aandacht wordt er daarom gevraagd van de overheden voor het bewaken van de betaalbaarheid van het wonen in de stad en voor het behoud van de sociale samenhang in de stad, met name in wijken waar ook wordt geïnvesteerd in benodigde kwaliteitsverbetering voor de leefbaarheid. Het Rijk ondersteunt in beleid door wet- en regelgeving de inzet voor een evenwichtige ontwikkeling van de woningmarkt waarin ook juist het samengaan van betaalbaar wonen in de stedelijke regio’s een uitgangspunt is (en speculatie op verdere prijsstijgingen door het woningtekort wordt voorkomen).</Al>
                                           <Al>Een te sterke ruimtelijke segregatie kan de sociale verbanden in de stad aantasten. Het combineren van goedkope, middeldure en dure woningen in één wijk, waar in het verleden op is ingezet, blijkt moeilijk realiseerbaar en niet effectief in het bevorderen van sociaal contact. Maar het ontstaan van gehele stadsdelen met slechts wijken van goedkope of slechts dure woningen is niet goed voor de sociale samenhang in de stad en de samenleving en kan problemen van criminaliteit en overlast genereren. Een afwisseling van diverse typen wijken en een slimme ruimtelijke situering daarvan rond plekken waar mensen veel samenkomen, kan helpen sociale samenhang te behouden en een negatieve spiraal te voorkomen. Van belang is in alle woongebieden te investeren in een ondergrond voor actief burgerschap en ruimte te houden of maken voor initiatief en (sociaal) ondernemerschap in gemengde woon- en werkmilieus. Dat maakt de stad aantrekkelijk voor mensen met verschillende leefstijlen en culturele achtergronden. In de stedelijke regio’s bevorderen we de sociale samenhang door op het niveau van stadsdeel/-wijk te zorgen voor voldoende afwisseling in woningtypen en prijsklassen, de ontwikkeling van gemengde woon/werkmilieus en een veilige, toegankelijke en aantrekkelijke, gezond ingerichte openbare ruimte. Voor de stedelingen kan ook de ontwikkeling van meer gemeenschappelijke woonvormen bijdragen aan een leefomgeving met een grotere sociale verbondenheid. Belemmeringen voor een rol van woningcorporaties in de ontwikkeling van dergelijke complexen in wet- en regelgeving zullen zo veel mogelijk worden weggenomen. En gemeenten wordt gevraagd ook ruimte te bieden voor burgerinitiatieven voor woningbouw.</Al>
-                                          <Kadertekst xmlns:eigen="www.eigen.nl"
-                                                      eId="div_o_1__div_4__div_4.2__div_4.2.3__div_o_3__div_o_3__content_o_1__recital_o_1"
+                                          <Kadertekst eId="div_o_1__div_4__div_4.2__div_4.2.3__div_o_3__div_o_3__content_o_1__recital_o_1"
                                                       wId="mnre1034_1__div_o_1__div_4__div_4.2__div_4.2.3__div_o_3__div_o_3__content_o_1__recital_o_1"
                                                       dso:class="voorbeeld">
                                              <Kop>
@@ -4387,8 +4375,7 @@
                                                   wId="mnre1034_1__div_o_1__div_4__div_4.2__div_4.2.3__div_o_3__div_o_4__content_o_1">
                                        <Inhoud>
                                           <Al>Het Rijk zet bij de invulling van de integrale verstedelijkingsstrategieën op regionale schaal in op de volgende voorkeursvolgorde voor de ontwikkeling van nieuwe woon- en werklocaties.</Al>
-                                          <Kadertekst xmlns:eigen="www.eigen.nl"
-                                                      eId="div_o_1__div_4__div_4.2__div_4.2.3__div_o_3__div_o_4__content_o_1__recital_o_1"
+                                          <Kadertekst eId="div_o_1__div_4__div_4.2__div_4.2.3__div_o_3__div_o_4__content_o_1__recital_o_1"
                                                       wId="mnre1034_1__div_o_1__div_4__div_4.2__div_4.2.3__div_o_3__div_o_4__content_o_1__recital_o_1"
                                                       dso:class="toelichting_beleidskeuze">
                                              <Kop>
@@ -4502,8 +4489,7 @@
                                           <Al>In de regio’s met de hoogste druk en/of een complexe verstedelijkingsopgave waarin meerdere nationale belangen samenkomen werken Rijk en regio gezamenlijk aan verstedelijkingsstrategieën waar integrale keuzes worden gemaakt op het gebied van onder andere wonen, werken, mobiliteit, recreatie in het groen, klimaatadaptatie, landschap, energietransitie. De verstedelijkingsstrategie vormt een belangrijke bouwsteen voor de gezamenlijk op te stellen Omgevingsagenda.</Al>
                                           <Al>In een aantal regio’s wordt voor de verstedelijkingsstrategie een wat groter schaalniveau bekeken vanwege de samenhangende opgaven: de regio Groningen-Assen, Brabantstad en de regio Arnhem/ Nijmegen/Food Valley. Naast de Woondeal regio’s wordt ook voor de regio Zwolle gewerkt aan een verstedelijkingsstrategie waarin klimaatadaptatie een van de grote opgaven is.</Al>
                                           <Al>Ook buiten deze regio’s is in steden/regio’s sprake van groei en werken Rijk en regio samen. Het Rijk levert ook daar inbreng op basis van de verstedelijkingsstrategie en de voorkeursvolgorde. Het formuleren van een gezamenlijke verstedelijkingsstrategie is daar onderdeel van het opstellen van de Omgevingsagenda.</Al>
-                                          <Kadertekst xmlns:eigen="www.eigen.nl"
-                                                      eId="div_o_1__div_4__div_4.2__div_4.2.3__div_o_3__div_o_5__content_o_1__recital_o_1"
+                                          <Kadertekst eId="div_o_1__div_4__div_4.2__div_4.2.3__div_o_3__div_o_5__content_o_1__recital_o_1"
                                                       wId="mnre1034_1__div_o_1__div_4__div_4.2__div_4.2.3__div_o_3__div_o_5__content_o_1__recital_o_1"
                                                       dso:class="toelichting_beleidskeuze">
                                              <Kop>
@@ -4806,8 +4792,7 @@
                                                   wId="mnre1034_1__div_o_1__div_4__div_4.2__div_4.2.3__div_o_8__div_o_5__content_o_1">
                                        <Inhoud>
                                           <Al>De mogelijkheden van smart technology voor mobiliteit lijken zeer groot, zowel waar het gaat om het zelfstandig rijden van voertuigen als om het managen, sturen en delen van vervoerstromen en vervoersmiddelen. Over het tijdstip waarop zelfrijdende voertuigen algemeen zullen kunnen worden gebruikt op de openbare weg, verschillen de meningen, maar gebruik in de compacte en historische steden zoals Nederland die kent, lijkt vooralsnog ver weg. In het stedelijk gebied verbeteren slimmer OV en slimme systemen voor deelgebruik van fiets en auto al wel de bereikbaarheid. Zelfrijdende deelauto’s zouden op lange termijn een bijdrage kunnen leveren aan de bereikbaarheid in de steden. Maar de verkeerskundige en maatschappelijke aspecten vragen nog nader onderzoek. Buiten de steden zal het gebruik van zelfrijdende auto’s eerder kansen bieden; de omstandigheden voor deelgebruik zijn daar minder gunstig.</Al>
-                                          <Kadertekst xmlns:eigen="www.eigen.nl"
-                                                      eId="div_o_1__div_4__div_4.2__div_4.2.3__div_o_8__div_o_5__content_o_1__recital_o_1"
+                                          <Kadertekst eId="div_o_1__div_4__div_4.2__div_4.2.3__div_o_8__div_o_5__content_o_1__recital_o_1"
                                                       wId="mnre1034_1__div_o_1__div_4__div_4.2__div_4.2.3__div_o_8__div_o_5__content_o_1__recital_o_1"
                                                       dso:class="voorbeeld">
                                              <Kop>
@@ -4888,8 +4873,7 @@
                                        <Al>Steeds duidelijk wordt dat de opgaven alleen goed aangepakt kunnen worden als we dit in samenhang doen, het ontwikkelpotentieel van heel Nederland benutten en zorgen voor een duurzame ontwikkeling en verbinding van alle delen van Nederland. Dit betekent niet dat overal hetzelfde moet gebeuren. Het vraagt voor alle regio’s een specifieke strategie. In grensregio’s, maar ook enkele andere regio’s waar de bevolking daalt, spelen andere vraagstukken of zijn de omstandigheden anders. Daar is geen sprake van een kwantitatieve groei van het aantal woningen, maar bestaan vaak wel andere meer kwalitatieve vragen, gericht op de woonbehoefte van ouderen of flexwonen en spelen vragen rond de leefkwaliteit. Daarnaast kan er ook sprake zijn van onderbenutte economische potenties, bijvoorbeeld in de grensregio’s. Mogelijkheden die niet alleen relevant zijn voor deze regio’s maar in meer algemene zin ook voor de ontwikkeling van ons land. Door de barrièrewerking van de grens worden die mogelijkheden tot op heden echter niet of maar ten dele benut. Mede hierdoor stagneert in verschillende grensregio’s de bevolkingsontwikkeling. Dit heeft consequenties voor het aanbod van voorzieningen, die belangrijk zijn voor de sociaal-fysieke leefbaarheid in deze regio’s.</Al>
                                        <Al>Het afnemende inwoneraantal heeft effecten op diverse domeinen. Het zorgt voor een extra druk op publieke voorzieningen. Een afname van economische activiteiten en bestedingen leidt tot minder inkomen en werkgelegenheid en legt druk op de detailhandel en commerciële dienstverlening. In het fysieke domein kan dit leiden tot verloedering en leegstand van woningen, bedrijventerreinen en ander vastgoed. Al deze effecten beïnvloeden de kwaliteit van de fysieke leefomgeving en kunnen op zichzelf ook weer leiden tot een afname van het inwoneraantal.</Al>
                                        <Al>Ook deze gebieden staan daarnaast voor dezelfde opgaven als de rest van Nederland. Er moet ruimte worden gevonden voor de klimaat- en energietransitie, de economie verandert en er vindt een transitie in de landbouw plaats. De demografische context vraagt om een andere, regio- en locatie specifieke aanpak en handelingsperspectief. Deze opgaven bieden net als elders tevens kansen.</Al>
-                                       <Kadertekst xmlns:eigen="www.eigen.nl"
-                                                   eId="div_o_1__div_4__div_4.2__div_4.2.3__div_o_9__content_o_1__recital_o_2"
+                                       <Kadertekst    eId="div_o_1__div_4__div_4.2__div_4.2.3__div_o_9__content_o_1__recital_o_2"
                                                    wId="mnre1034_1__div_o_1__div_4__div_4.2__div_4.2.3__div_o_9__content_o_1__recital_o_2"
                                                    dso:class="voorbeeld">
                                           <Kop>
@@ -5132,8 +5116,7 @@
                                                 <NootNummer>86</NootNummer>
                                                 <Al>Ministerie van Infrastructuur en Waterstaat &amp; Ministerie van Economische Zaken en Klimaat, <i>Structuurvisie Ondergrond (STRONG)</i>, Den Haag 2018.</Al>
                                              </Noot> Tegelijkertijd moet worden ingezet op waterbesparing bij huishoudens en bedrijven. Waterbesparing leidt tevens tot een besparing op energie en een vermindering van de te zuiveren hoeveelheid afvalwater, een win-winsituatie. Transparantie voor gebruikers over de beschikbaarheid van zoetwater is hierbij van belang. Inzet is een robuust systeem om de schade bij droogte voor maatschappelijke en economische functies ook op lange termijn zo veel mogelijk te beperken.</Al>
-                                          <Kadertekst xmlns:eigen="www.eigen.nl"
-                                                      eId="div_o_1__div_4__div_4.2__div_4.2.4__div_o_1__div_o_4__content_o_1__recital_o_1"
+                                          <Kadertekst eId="div_o_1__div_4__div_4.2__div_4.2.4__div_o_1__div_o_4__content_o_1__recital_o_1"
                                                       wId="mnre1034_1__div_o_1__div_4__div_4.2__div_4.2.4__div_o_1__div_o_4__content_o_1__recital_o_1"
                                                       dso:class="toelichting_beleidskeuze">
                                              <Kop>
@@ -5200,8 +5183,7 @@
                                                 <Al>Ministerie van Landbouw, Natuur en Voedselkwaliteit, Veenplan 1e fase, Kamerstukken II 32813, nr. 562, Den Haag 2020.</Al>
                                              </Noot>, is het accent gelegd op het streven naar verhoging van de grondwaterstand omdat dit naar verwachting het meest effectief zal zijn om CO<sub>2</sub>-emissies uit veengrond te verminderen, zonder aan te geven welke functie daarbij hoort. Beleidsuitgangspunt is dat verhoging van de grondwaterstand leidend is in plaats van volgend. Bij een verhoging van de grondwaterstand kan de huidige functie zich aanpassen of veranderen. De verhoging van de grondwaterstand beïnvloedt zo de inrichtings- en gebruiksmogelijkheden van gronden en dit zal in een zorgvuldig gebiedsproces onder leiding van de provincies vorm krijgen.</Al>
                                           <Al>Provincies organiseren ofwel faciliteren dit proces met grondgebruikers (onder andere agrariërs), maatschappelijke actoren, bewoners en medeoverheden gericht op de opstelling van een programma per veenweidegebied (Regionale Veenweidestrategie). In 2020 wordt een conceptprogramma opgesteld.</Al>
-                                          <Kadertekst xmlns:eigen="www.eigen.nl"
-                                                      eId="div_o_1__div_4__div_4.2__div_4.2.4__div_o_1__div_o_6__content_o_1__recital_o_1"
+                                          <Kadertekst eId="div_o_1__div_4__div_4.2__div_4.2.4__div_o_1__div_o_6__content_o_1__recital_o_1"
                                                       wId="mnre1034_1__div_o_1__div_4__div_4.2__div_4.2.4__div_o_1__div_o_6__content_o_1__recital_o_1"
                                                       dso:class="voorbeeld">
                                              <Kop>
@@ -5230,8 +5212,7 @@
                                           </Kadertekst>
                                           <Al>Bij het opstellen van de Regionale Veenweidestrategieën wordt de invloed op de fysieke leefomgeving en leefomgevingskwaliteit op de lange termijn (2050) meegenomen. Hierbij is ook aandacht voor gebiedsoverstijgende landschappelijke kwaliteiten en zorgvuldig omgaan met de unieke cultuurlandschappen.</Al>
                                           <Al>Voor een overzicht van gebieden zie de kaart ’Bodemdaling’ in de Toelichting.</Al>
-                                          <Kadertekst xmlns:eigen="www.eigen.nl"
-                                                      eId="div_o_1__div_4__div_4.2__div_4.2.4__div_o_1__div_o_6__content_o_1__recital_o_2"
+                                          <Kadertekst eId="div_o_1__div_4__div_4.2__div_4.2.4__div_o_1__div_o_6__content_o_1__recital_o_2"
                                                       wId="mnre1034_1__div_o_1__div_4__div_4.2__div_4.2.4__div_o_1__div_o_6__content_o_1__recital_o_2"
                                                       dso:class="toelichting_beleidskeuze">
                                              <Kop>
@@ -5391,8 +5372,7 @@
                                              </Noot>
                                           </Al>
                                           <Al>In de Uitvoeringsagenda bij de NOVI wordt een Strategische verkenning ‘Biobased bouwen’ opgenomen. Deze strategische verkenning beoogt versnelling te geven aan duurzame verstedelijking, in verbinding met herstel van landschap, meer biodiversiteit en nieuwe verdienmodellen voor de landbouw. Grote voordelen van bouwen in hout zijn de beperking van stikstofuitstoot en de langjarige vastlegging van CO<sub>2</sub>, in plaats van CO<sub>2</sub>-uitstoot (mondiaal is de bouwsector momenteel verantwoordelijk voor 11 procent van de CO<sub>2</sub>-uitstoot). Doel is sturen op samenhang tussen maatschappelijke opgaven en landschappelijke kwaliteit door beleid en praktijk zoveel mogelijk te verbinden.</Al>
-                                          <Kadertekst xmlns:eigen="www.eigen.nl"
-                                                      eId="div_o_1__div_4__div_4.2__div_4.2.4__div_o_2__div_o_5__content_o_1__recital_o_1"
+                                          <Kadertekst eId="div_o_1__div_4__div_4.2__div_4.2.4__div_o_2__div_o_5__content_o_1__recital_o_1"
                                                       wId="mnre1034_1__div_o_1__div_4__div_4.2__div_4.2.4__div_o_2__div_o_5__content_o_1__recital_o_1"
                                                       dso:class="voorbeeld">
                                              <Kop>
@@ -5450,8 +5430,7 @@
                                        <Inhoud>
                                           <Al>Het landelijk gebied levert meerdere belangrijke diensten aan onze samenleving: niet alleen voedsel, biomassa en energie, maar ook landschapsbeleving, identiteit, een aantrekkelijke woonomgeving, hoogwaardig werk, ruimte voor recreatie en toerisme, waterberging, zuivering van lucht en water en de opslag van CO<sub>2</sub>, enzovoort. Zowel de grondgebonden als de niet-grondgebonden land- en tuinbouw in Nederland moeten we voldoende ruimte bieden om te produceren op een manier die ecologisch én sociaaleconomisch houdbaar en vol te houden is. Nederland beschikt over een efficiënte en in Europees verband vooraanstaande agrosector (landbouw en aanverwante bedrijvigheid). Die sterke positie willen we in de toekomst behouden. Maar wel op een andere manier dan nu. De relatie tussen landbouw, landschap en natuur moet sterker en organischer worden dan zij nu is. De visie Landbouw, Natuur en Voedsel: Waardevol en Verbonden en het Natuurpact van de minister van Landbouw, Natuur en Voedselkwaliteit geeft de koers aan: kringlooplandbouw en natuurinclusieve landbouw zijn daarvoor nodig.</Al>
                                           <Al>Het blijft voor Nederland van groot belang dat deze veranderingen bijdragen aan een gezonde en levensvatbare sector die internationaal concurrerend blijft. In goed geschikte gebieden is ruimte voor landbouw als primaire functie, waarin de conventionele bestaande landbouw ook zo veel mogelijk de omschakeling naar kringlooplandbouw zal maken.</Al>
-                                          <Kadertekst xmlns:eigen="www.eigen.nl"
-                                                      eId="div_o_1__div_4__div_4.2__div_4.2.4__div_o_3__div_o_1__content_o_1__recital_o_1"
+                                          <Kadertekst eId="div_o_1__div_4__div_4.2__div_4.2.4__div_o_3__div_o_1__content_o_1__recital_o_1"
                                                       wId="mnre1034_1__div_o_1__div_4__div_4.2__div_4.2.4__div_o_3__div_o_1__content_o_1__recital_o_1"
                                                       dso:class="voorbeeld">
                                              <Kop>
@@ -5655,8 +5634,7 @@
                                                 <NootNummer>108</NootNummer>
                                                 <Al>College van Rijksadviseurs, <i>(X)XL verdozing – Minder, compacter, geconcentreerder, multifunctioneler</i>, Den Haag 2019.</Al>
                                              </Noot> Daarom zet het kabinet in op het concentreren van logistieke functies langs de (inter)nationale corridors en ontwikkelen van verdere concentratie op logistieke knooppunten langs deze corridors. Dit vanuit zowel het belang van landschappelijke kwaliteit en het beperken van mobiliteit, als het versterken van het logistieke systeem en onze economie. Zie verder kader Aanpak Concentreren van logistieke functies, beleidskeuze 2.7.</Al>
-                                          <Kadertekst xmlns:eigen="www.eigen.nl"
-                                                      eId="div_o_1__div_4__div_4.2__div_4.2.4__div_o_4__div_o_6__content_o_1__recital_o_1"
+                                          <Kadertekst eId="div_o_1__div_4__div_4.2__div_4.2.4__div_o_4__div_o_6__content_o_1__recital_o_1"
                                                       wId="mnre1034_1__div_o_1__div_4__div_4.2__div_4.2.4__div_o_4__div_o_6__content_o_1__recital_o_1"
                                                       dso:class="toelichting_beleidskeuze">
                                              <Kop>
@@ -6340,8 +6318,7 @@
                                           </Li>
                                        </Lijst>
                                        <Al>Het doel van een NOVI-gebied is dus het oppakken en verder brengen van (onderdelen van) grote en geïntegreerde (transitie)opgaven in de fysieke leefomgeving, die essentieel zijn voor het betreffende gebied én voor Nederland als geheel, waarbij de nationale belangen onmiskenbaar zijn op het terrein van verstedelijking, duurzame economie, energie/klimaat en/of landelijk gebied. Vanzelfsprekend zal een NOVI-gebied als dat is aangewezen, onderdeel gaan uitmaken van de Omgevingsagenda die voor het landsdeel wordt opgesteld waarin dit gebied ligt. Samen met reeds lopende programma’s ontstaat met deze en andere te ontwikkelen gebiedsuitwerkingen een uitvoeringspraktijk van Rijk en regio die past bij de opgaven die de NOVI aangeeft.</Al>
-                                       <Kadertekst xmlns:eigen="www.eigen.nl"
-                                                   eId="div_o_1__div_5__div_5.2__div_o_3__div_o_2__content_o_1__recital_o_1"
+                                       <Kadertekst    eId="div_o_1__div_5__div_5.2__div_o_3__div_o_2__content_o_1__recital_o_1"
                                                    wId="mnre1034_1__div_o_1__div_5__div_5.2__div_o_3__div_o_2__content_o_1__recital_o_1"
                                                    dso:class="toelichting_beleidskeuze">
                                           <Kop>
@@ -6440,8 +6417,7 @@
                                        <Inhoud>
                                           <Al>Essentieel is dat de NOVI-gebieden de bestuurlijke drukte niet vergroten, maar de samenwerking juist vormgeven, verbeteren, stroomlijnen en daarmee bijdragen aan resultaten. Dat betekent dat bijvoorbeeld de relatie duidelijk moet worden met de bereikbaarheidsprogramma’s, de woningbouwimpuls dan wel Woondeals, Regio Deals, verstedelijkingsstrategieën, de RES’en, de Interbestuurlijke Programma’s, Erfgoed Deal-projecten, de Gebiedsagenda’s Grote Wateren, uitwerking van het Deltaprogramma en verschillende lopende MIRT-projecten.</Al>
                                           <Al>Specifieke toevoegingen aan deze lopende trajecten zijn denkbaar. Ook is denkbaar dat zo’n traject geheel of gedeeltelijk de status van NOVI-gebied krijgt. De toekenning van de status NOVI-gebied kan de politiek-bestuurlijke aandacht en zichtbaarheid vergroten, maar ook anderszins meerwaarde hebben of krijgen. Voor de status wordt toegekend, zal expliciet helder moeten worden gemaakt hoe dit meerwaarde oplevert en hoe de aansturing het beste kan worden vormgegeven, zonder onnodig te tornen aan de bestaande bestuurlijke afspraken en zonder de ’bestuurlijke drukte’ te vergroten. In de Uitvoeringsagenda bij deze NOVI werken we de aanpak van de NOVI-gebieden verder uit. Belangrijk is dat, waar nodig, nauw wordt afgestemd met lopende programma’s, zonder de verantwoordelijkheden voor de verschillende programma’s te veranderen. De status NOVI-gebied geeft extra zichtbaarheid aan de gezamenlijk inspanningen, resultaten en knelpunten. Hiermee geven we als één overheid concreet uitvoering aan de NOVI. Als onderdeel van de permanente NOVI-cyclus kunnen eventueel nieuwe gebieden worden toegevoegd of kan de aanpak beëindigd worden als gewenste resultaten zijn behaald.</Al>
-                                          <Kadertekst xmlns:eigen="www.eigen.nl"
-                                                      eId="div_o_1__div_5__div_5.2__div_o_3__div_o_2__div_o_4__content_o_1__recital_o_1"
+                                          <Kadertekst eId="div_o_1__div_5__div_5.2__div_o_3__div_o_2__div_o_4__content_o_1__recital_o_1"
                                                       wId="mnre1034_1__div_o_1__div_5__div_5.2__div_o_3__div_o_2__div_o_4__content_o_1__recital_o_1"
                                                       dso:class="voorbeeld">
                                              <Kop>
@@ -6831,8 +6807,7 @@
                                           <NootNummer>137</NootNummer>
                                           <Al>Toelichting bij de Invoeringswet Omgevingswet.</Al>
                                        </Noot>, en het Rijk blijft daaraan nog steeds gebonden.</Al>
-                                    <Kadertekst xmlns:eigen="www.eigen.nl"
-                                                eId="div_o_2__div_3__div_3.1__div_o_5__content_o_1__recital_o_1"
+                                    <Kadertekst eId="div_o_2__div_3__div_3.1__div_o_5__content_o_1__recital_o_1"
                                                 wId="mnre1034_1__div_o_2__div_3__div_3.1__div_o_5__content_o_1__recital_o_1"
                                                 dso:class="toelichting_beleidskeuze">
                                        <Lijst eId="div_o_2__div_3__div_3.1__div_o_5__content_o_1__recital_o_1__list_o_1"
@@ -6871,8 +6846,7 @@
                            <Divisietekst eId="div_o_2__div_3__div_3.2__content_o_1"
                                          wId="mnre1034_1__div_o_2__div_3__div_3.2__content_o_1">
                               <Inhoud>
-                                 <Kadertekst xmlns:eigen="www.eigen.nl"
-                                             eId="div_o_2__div_3__div_3.2__content_o_1__recital_o_1"
+                                 <Kadertekst eId="div_o_2__div_3__div_3.2__content_o_1__recital_o_1"
                                              wId="mnre1034_1__div_o_2__div_3__div_3.2__content_o_1__recital_o_1"
                                              dso:class="voorbeeld">
                                     <Kop>
