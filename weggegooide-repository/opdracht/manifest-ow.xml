@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modules xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://www.geostandaarden.nl/imow/manifest/v20190901" xsi:schemaLocation="http://www.geostandaarden.nl/imow/manifest/v20190901 ../xsd/bestanden-ow/generiek/v20190901/manifest-ow.xsd">
+   <domein>omgevingswet</domein>
+   <RegelingVersie>
+      <FRBRwork>/akn/nl/act/pv26/2019/OVPU-20191211</FRBRwork>
+      <FRBRExpression>/akn/nl/act/pv26/2019/OVPU-20191211/nld@2019-12-11</FRBRExpression>
+      <Bestand>
+         <naam>owHoofdlijn.xml</naam>
+         <objecttype>Hoofdlijn</objecttype>
+      </Bestand>
+      <Bestand>
+         <naam>owVrijetekst.xml</naam>
+         <objecttype>FormeleDivisie</objecttype>
+         <objecttype>Tekstdeel</objecttype>
+      </Bestand>
+   </RegelingVersie>
+</Modules>
