@@ -51,7 +51,7 @@
                <doelen>
                   <doel>/join/id/proces/mnre1034/2021/Wijziging1</doel>
                </doelen>
-               <instrumentVersie>/akn/nl/act/mnre1034/2021/NOVI001RGL-20210707-132442/nld@2021-07-01;4</instrumentVersie>
+               <instrumentVersie>/akn/nl/act/mnre1034/2021/NOVI001/nld@2021-07-01;4</instrumentVersie>
                <eId>art_I</eId>
             </BeoogdeRegeling>
          </BeoogdeRegelgeving>
@@ -97,7 +97,7 @@
                <Nummer>I</Nummer>
                <Opschrift>Nationale Omgevingsvisie</Opschrift>
             </Kop>
-            <RegelingMutatie componentnaam="mutatietest" was="/akn/nl/act/mnre1034/2021/NOVI001RGL-20210707-132442/nld@2021-03-24;3" wordt="/akn/nl/act/mnre1034/2021/NOVI001RGL-20210707-132442/nld@2021-07-01;4">
+            <RegelingMutatie componentnaam="mutatietest" was="/akn/nl/act/mnre1034/2021/NOVI001/nld@2021-03-24;3" wordt="/akn/nl/act/mnre1034/2021/NOVI001/nld@2021-07-01;4">
                <Vervang wat="mnre1034_3__div_o_1__div_o_1__content_o_1">
                   <Divisietekst wId="mnre1034_3__div_o_1__div_o_1__content_o_1" eId="div_o_1__div_o_1__content_o_1">
                      <Inhoud>
@@ -157,8 +157,8 @@
    </BesluitVersie>
    <RegelingVersieInformatie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/act/mnre1034/2021/NOVI001RGL-20210707-132442</FRBRWork>
-         <FRBRExpression>/akn/nl/act/mnre1034/2021/NOVI001RGL-20210707-132442/nld@2021-07-01;4</FRBRExpression>
+         <FRBRWork>/akn/nl/act/mnre1034/2021/NOVI001</FRBRWork>
+         <FRBRExpression>/akn/nl/act/mnre1034/2021/NOVI001/nld@2021-07-01;4</FRBRExpression>
          <soortWork>/join/id/stop/work_019</soortWork>
       </ExpressionIdentificatie>
       <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
