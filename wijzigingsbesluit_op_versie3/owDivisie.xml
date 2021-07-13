@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ow-dc:owBestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:gml="http://www.opengis.net/gml/3.2"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+                 xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v1.0.3/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+   <sl:standBestand>
+      <sl:dataset>/akn/nl/act/mnre1034/2021/NOVI001RGL-20210707-132442</sl:dataset>
+      <sl:inhoud>
+         <sl:gebied>Nederland</sl:gebied>
+         <sl:leveringsId>NOVI001RGL-20210707-132442-003</sl:leveringsId>
+         <sl:objectTypen>
+            <sl:objectType>Tekstdeel</sl:objectType>
+         </sl:objectTypen>
+      </sl:inhoud>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.20210001</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/landgebruik/id/concept/Landgebruik</vt:thema>
+               <vt:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemen</vt:thema>
+               <vt:divisieaanduiding>
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.20210001"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.20210003"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.20210004"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.20210005"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.20210006"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.20210008"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+   </sl:standBestand>
+</ow-dc:owBestand>
