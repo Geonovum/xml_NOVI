@@ -8909,7 +8909,7 @@
          <soortWork>/join/id/stop/work_019</soortWork>
       </ExpressionIdentificatie>
       <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <versienummer>3</versienummer>
+         <versienummer>4</versienummer>
       </RegelingVersieMetadata>
       <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <soortRegeling>/join/id/stop/regelingtype_006</soortRegeling>
