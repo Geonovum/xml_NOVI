@@ -20,6 +20,7 @@
          <sl:gebied>Nederland</sl:gebied>
          <sl:leveringsId>NOVI004-001</sl:leveringsId>
          <sl:objectTypen>
+            <sl:objectType>Ambtsgebied</sl:objectType>
             <sl:objectType>Gebied</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
