@@ -23,6 +23,7 @@
       <Bestand>
          <naam>owLocatie.xml</naam>
          <objecttype>Gebied</objecttype>
+         <objecttype>Ambtsgebied</objecttype>
       </Bestand>
    </Aanlevering>
 </Aanleveringen>

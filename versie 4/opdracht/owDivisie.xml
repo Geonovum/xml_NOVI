@@ -1536,7 +1536,7 @@
             </vt:Tekstdeel>
          </ow-dc:owObject>
       </sl:stand>
-      <sl:stand>
+<!--      <sl:stand> Annoteren op bijlagen mag niet hè
          <ow-dc:owObject>
             <vt:Divisie wId="mnre1034_4__cmp_o_2">
                <vt:identificatie>nl.imow-mnre1034.divisie.20210069</vt:identificatie>
@@ -1556,6 +1556,6 @@
                </vt:locatieaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
-      </sl:stand>
+      </sl:stand>-->
    </sl:standBestand>
 </ow-dc:owBestand>
