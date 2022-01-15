@@ -68,7 +68,7 @@
             <Al>Vaststelling Nationale Omgevingsvisie</Al>
          </RegelingOpschrift>
          <Lichaam eId="body" wId="body">
-            <WijzigArtikel eId="art_I" wId="mnre1034_5__art_I">
+            <WijzigArtikel eId="art_I" wId="mnre1034_4__art_I">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>I</Nummer>
@@ -76,7 +76,7 @@
                </Kop>
                <Wat>De Nationale Omgevingsvisie (NOVI) wordt vastgesteld als aangegeven in de <IntRef ref="cmp_I">WijzigBijlage I</IntRef>.</Wat>
             </WijzigArtikel>
-            <Artikel eId="art_II" wId="mnre1034_5__art_II">
+            <Artikel eId="art_II" wId="mnre1034_4__art_II">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>II</Nummer>
@@ -90,7 +90,7 @@
          <Sluiting eId="formula_2" wId="formula_2">
             <Al>Aldus besloten.</Al>
          </Sluiting>
-         <WijzigBijlage eId="cmp_I" wId="mnre1034_5__cmp_I">
+         <WijzigBijlage eId="cmp_I" wId="mnre1034_4__cmp_I">
             <Kop>
                <Label>Bijlage</Label>
                <Nummer>I</Nummer>
@@ -100,44 +100,44 @@
                was="/akn/nl/act/mnre1034/2021/NOVI004/nld@2021-09-06;4"
                wordt="/akn/nl/act/mnre1034/2021/NOVI004/nld@2021-09-08;5">
                <Vervang wat="mnre1034_4__div_o_1__content_o_1">
-                  <Divisietekst eId="cmp_I__content_o_1" wId="mnre1034_5__cmp_I__content_o_1">
+                  <Divisietekst eId="div_o_1__content_o_1" wId="mnre1034_4__div_o_1__content_o_1">
                      <Inhoud>
                         <Kadertekst xmlns:dso="https://www.dso.nl/"
-                                    eId="cmp_I__content_o_1__recital_o_1"
-                                    wId="mnre1034_5__cmp_I__content_o_1__recital_o_1"
+                                    eId="div_o_1__content_o_1__recital_o_1"
+                                    wId="mnre1034_4__div_o_1__content_o_1__recital_o_1"
                                     dso:type="1">
                            <Al>
                               <NieuweTekst>Geonovum heeft deze zin toegevoegd om een wijziging van vrijetekststructuur-omgevingsdocumenten te testen.</NieuweTekst>
                            </Al>
-                           <Al>Voor u ligt de Nationale Omgevingsvisie, de NOVI, waarin het Rijk een langetermijnvisie geeft op de toekomstige ontwikkeling van de leefomgeving in <IntIoRef eId="cmp_I__content_o_1__recital_o_1__ref_o_1"
-                                        wId="mnre1034_5__cmp_I__content_o_1__recital_o_1__ref_o_1"
+                           <Al>Voor u ligt de Nationale Omgevingsvisie, de NOVI, waarin het Rijk een langetermijnvisie geeft op de toekomstige ontwikkeling van de leefomgeving in <IntIoRef eId="div_o_1__content_o_1__recital_o_1__ref_o_1"
+                                        wId="mnre1034_4__div_o_1__content_o_1__recital_o_1__ref_o_1"
                                         ref="mnre1034_4__cmp_o_1__content_o_1__list_o_1__item_o_1__ref_o_1">Nederland</IntIoRef>.</Al>
                            <Al>In Nederland staan we voor een aantal urgente maatschappelijke opgaven, die zowel lokaal als regionaal, nationaal en internationaal spelen. Grote en complexe opgaven zoals klimaatverandering, energietransitie, circulaire economie, bereikbaarheid en woningbouw zullen Nederland flink veranderen. We hebben een lange traditie van ons aanpassen. Deze opgaven benutten we om vooruit te komen en tegelijkertijd het mooie van Nederland te behouden voor de generaties na ons.</Al>
                            <Al>Met de NOVI bieden we een perspectief om deze grote opgaven aan te pakken, om samen ons land mooier en sterker te maken en daarbij voort te bouwen op het bestaande landschap en de (historische) steden. Omgevingskwaliteit is het kernbegrip: dat wil zeggen ruimtelijke kwaliteit én milieukwaliteit. Met inachtneming van maatschappelijke waarden en inhoudelijke normen voor bijvoorbeeld gezondheid, veiligheid en milieu. In dat samenspel van normen, waarden en collectieve ambities, stuurt de NOVI op samenwerking tussen alle betrokken partijen.</Al>
                         </Kadertekst>
                         <Al>De NOVI stelt een nieuwe aanpak voor: integraal, samen met andere overheden en maatschappelijke organisaties, en met meer regie vanuit het Rijk. Met steeds een zorgvuldige afweging van belangen werken we aan onze prioriteiten: ruimte voor klimaatadaptatie en energietransitie, een duurzaam en (circulair) economisch groeipotentieel, sterke en gezonde steden en regio’s en een toekomstbestendige ontwikkeling van het landelijk gebied.</Al>
                         <Al>Het duurzaam vernieuwen van Nederland is een proces van <VerwijderdeTekst>de</VerwijderdeTekst> lange adem. Tegelijkertijd doet de actualiteit een beroep op ons vermogen snel in te spelen op ontwikkelingen in de samenleving. De COVID-19-pandemie, bijvoorbeeld, laat ons zien hoe kwetsbaar we zijn. Op dit moment werkt het kabinet aan een economisch herstelbeleid. Het is van belang dat dit herstelbeleid ook onze doelen op het terrein van leefomgevingsbeleid voor de langere termijn dient. Het oplossen van problemen op de korte termijn komt zo in lijn met de strategische visie zoals in de NOVI verwoord. Dat geeft mogelijkheden zogenoemde ‘synergiekansen’ te benutten. Bijvoorbeeld door te kiezen voor herstelmaatregelen die niet alleen bijdragen aan gezondheid, maar ook aan de verduurzaming en kwaliteit van de leefomgeving.</Al>
-                        <Lijst eId="cmp_I__content_o_1__list_o_1"
-                               wId="mnre1034_5__cmp_I__content_o_1__list_o_1"
+                        <Lijst eId="div_o_1__content_o_1__list_o_1"
+                               wId="mnre1034_4__div_o_1__content_o_1__list_o_1"
                                type="expliciet">
                            <Lijstaanhef>Voor de vier bovengenoemde NOVI-prioriteiten geldt steeds dat zowel voor de lange als de korte termijn maatregelen nodig zijn, die in de praktijk voortdurend op elkaar inspelen:</Lijstaanhef>
-                           <Li eId="cmp_I__content_o_1__list_o_1__item_1"
-                               wId="mnre1034_5__cmp_I__content_o_1__list_o_1__item_1">
+                           <Li eId="div_o_1__content_o_1__list_o_1__item_1"
+                               wId="mnre1034_4__div_o_1__content_o_1__list_o_1__item_1">
                               <LiNummer>1.</LiNummer>
                               <Al>Zo kennen we in Nederland nu al langere periodes van droogte. Dit maakt het urgent dat we het watergebruik beter gaan afstemmen op het beschikbare water en dat we water langer vasthouden. Dit is een voorbeeld van de noodzakelijke keuzes die nu al nodig zijn en die een grote impact op de fysieke leefomgeving hebben. Functies die gebruik maken van de fysieke leefomgeving moeten meer worden afgestemd op de eigenschappen van het bodem-watersysteem. Deze keuzes dragen bij aan een klimaatbestendige inrichting in 2050, waarmee we Nederland voorbereiden op klimaatverandering en zeespiegelstijging. Neem ook de energietransitie: die vraagt nu al keuzes waarbij we rekening houden met effecten op de lange termijn. Op zee zoeken we ruimte voor windmolens. Het onlangs gesloten akkoord voor de Noordzee toont dat hierbij ook veel andere belangen spelen. Op land schiet de hoofdinfrastructuur voor transport en opslag van duurzame energie in gebieden soms nu al tekort. Naar 2050 toe neemt het aandeel duurzame energie alleen maar toe. Dan zijn veel meer aanpassingen aan de infrastructuur voor energie nodig. Ook de opgave voor ruimte voor de bronnen van duurzame energie zelf is groot. In de NOVI geven we daarom richtingen mee die bij inpassing van energieinfrastructuur aandacht vragen voor de kwaliteit van de leefomgeving.</Al>
                            </Li>
-                           <Li eId="cmp_I__content_o_1__list_o_1__item_2"
-                               wId="mnre1034_5__cmp_I__content_o_1__list_o_1__item_2">
+                           <Li eId="div_o_1__content_o_1__list_o_1__item_2"
+                               wId="mnre1034_4__div_o_1__content_o_1__list_o_1__item_2">
                               <LiNummer>2.</LiNummer>
                               <Al>In het kielzog van de COVID-19-pandemie werken we hard om de gevolgen voor onze economie zoveel als mogelijk te beperken. Dat vraagt op de korte termijn om ongekende overheidsingrepen en investeringen. De kunst is om interventies en investeringen ook ten goede te laten komen aan onze ambitie voor de lange termijn: het duurzaam en circulair maken van onze economie en energievoorziening en het versterken van de kwaliteit van onze leefomgeving. Bij de locaties van kantoren, bedrijventerreinen, grootschalige logistieke functies en datacentra houden we naast de vraag van bedrijven en economische vitaliteit, de aansluiting op het verkeers en vervoersnetwerk, het elektriciteitsnetwerk rekening met de aantrekkelijkheid en kwaliteit van stad en land. We zetten daarbij in op actieve clustering van (grootschalige) logistieke functies op logistieke knooppunten langs (inter)nationale corridors.</Al>
                            </Li>
-                           <Li eId="cmp_I__content_o_1__list_o_1__item_3"
-                               wId="mnre1034_5__cmp_I__content_o_1__list_o_1__item_3">
+                           <Li eId="div_o_1__content_o_1__list_o_1__item_3"
+                               wId="mnre1034_4__div_o_1__content_o_1__list_o_1__item_3">
                               <LiNummer>3.</LiNummer>
                               <Al>Met de NOVI bouwen we aan sterke, aantrekkelijke en gezonde steden. We werken aan de verdere ontwikkeling van het Stedelijk Netwerk Nederland. Daar willen we naartoe groeien en een goed bereikbaar netwerk van steden en regio’s realiseren. De grote actuele woningbehoefte vraagt tegelijkertijd om oplossingen op korte termijn. Het kabinet heeft voor de korte termijn daarom een pakket aan maatregelen voorgesteld om de woningbouw een nieuwe, stevige impuls te geven. De locaties bevinden zich in het Stedelijk Netwerk Nederland. De ontwikkeling vindt plaats in lijn met de ambities van de integrale verstedelijkingsstrategie, zo veel mogelijk in bestaand stedelijk gebied, klimaatbestendig en natuurinclusief. Grote open ruimten tussen de steden houden hun groene karakter. Het aanbod en de kwaliteit van het groen in de stad worden versterkt en de aansluiting op het groene gebied buiten de stad wordt verbeterd. De COVID-19 crisis onderstreept extra het grote belang van een goede inrichting van de openbare ruimte.</Al>
                            </Li>
-                           <Li eId="cmp_I__content_o_1__list_o_1__item_4"
-                               wId="mnre1034_5__cmp_I__content_o_1__list_o_1__item_4">
+                           <Li eId="div_o_1__content_o_1__list_o_1__item_4"
+                               wId="mnre1034_4__div_o_1__content_o_1__list_o_1__item_4">
                               <LiNummer>4.</LiNummer>
                               <Al>De stikstofproblematiek raakt zowel het landelijk gebied als diverse economische sectoren zwaar. De waarde van onze natuur, het landschap én de toekomst van de landbouw staan onder druk. Daarbij is verbetering van de biodiversiteit niet alleen een ecologische, maar nadrukkelijk ook een economische uitdaging, die op de korte termijn om een doortastende aanpak vraagt. Houdbare oplossingen vragen echter tijd. Voor de lange termijn werken we daarom aan geleidelijke en zorgvuldige herindeling van het landelijk gebied, onder meer gericht op kringlooplandbouw in goed evenwicht met natuur en landschap. Dit draagt bij aan een landelijk gebied waar het prettig wonen, werken en recreëren is en waarin ruimte is en blijft voor economisch vitale landbouw als belangrijke drager van het platteland.</Al>
                            </Li>
