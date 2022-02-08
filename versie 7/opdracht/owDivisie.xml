@@ -807,7 +807,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisietekst wId="">
+            <vt:Divisietekst wId="mnre1034_7__div_3__div_3.4__content_4">
                <vt:identificatie>nl.imow-mnre1034.divisietekst.20210033</vt:identificatie>
             </vt:Divisietekst>
          </ow-dc:owObject>
@@ -947,7 +947,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisietekst wId="">
+            <vt:Divisietekst wId="mnre1034_6__div_o_1__div_4__div_4.1__content_o_4">
                <vt:identificatie>nl.imow-mnre1034.divisietekst.20210038</vt:identificatie>
             </vt:Divisietekst>
          </ow-dc:owObject>
@@ -968,7 +968,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="">
+            <vt:Divisie wId="mnre1034_7__div_4__div_4.2__div_4.2.1">
                <vt:identificatie>nl.imow-mnre1034.divisie.20210039</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -1099,7 +1099,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="">
+            <vt:Divisie wId="mnre1034_7__div_4__div_4.2__div_4.2.2">
                <vt:identificatie>nl.imow-mnre1034.divisie.20210044</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -1318,7 +1318,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="">
+            <vt:Divisie wId="mnre1034_7__div_4__div_4.2__div_4.2.3">
                <vt:identificatie>nl.imow-mnre1034.divisie.20210053</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -1559,7 +1559,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="">
+            <vt:Divisie wId="mnre1034_7__div_4__div_4.2__div_4.2.4">
                <vt:identificatie>nl.imow-mnre1034.divisie.20210063</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
