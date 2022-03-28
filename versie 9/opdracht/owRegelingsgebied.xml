@@ -26,9 +26,9 @@
       <sl:stand>
          <ow-dc:owObject>
             <rg:Regelingsgebied>
-               <rg:identificatie>nl.imow-mnre1034.regelingsgebied.20210001</rg:identificatie>
+               <rg:identificatie>nl.imow-mnre1034.regelingsgebied.20220001</rg:identificatie>
                <rg:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-mnre1034.ambtsgebied.20210001"/>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.ambtsgebied.20220001"/>
                </rg:locatieaanduiding>
             </rg:Regelingsgebied>
          </ow-dc:owObject>
