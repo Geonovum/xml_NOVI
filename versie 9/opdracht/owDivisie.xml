@@ -35,7 +35,7 @@
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20210001</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisietekst.20210001"/>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.20210001"/>
                </vt:divisieaanduiding>
                <vt:hoofdlijnaanduiding>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.20210003"/>
@@ -165,7 +165,7 @@
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20210007</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisietekst.20210007"/>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.20210007"/>
                </vt:divisieaanduiding>
                <vt:hoofdlijnaanduiding>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.20210019"/>
@@ -207,7 +207,7 @@
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20210101</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisietekst.20210101"/>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.20210101"/>
                </vt:divisieaanduiding>
                <vt:hoofdlijnaanduiding>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.20210019"/>
@@ -248,7 +248,7 @@
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20210102</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisietekst.20210102"/>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.20210102"/>
                </vt:divisieaanduiding>
                <vt:hoofdlijnaanduiding>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.20210019"/>
@@ -731,7 +731,7 @@
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20210029</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisietekst.20210029"/>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.20210029"/>
                </vt:divisieaanduiding>
                <vt:hoofdlijnaanduiding>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.20210048"/>
@@ -839,7 +839,7 @@
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20210035</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisietekst.20210035"/>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.20210035"/>
                </vt:divisieaanduiding>
                <vt:hoofdlijnaanduiding>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.20210086"/>
@@ -947,7 +947,7 @@
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20210103</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisietekst.20210103"/>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.20210103"/>
                </vt:divisieaanduiding>
                <vt:hoofdlijnaanduiding>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.20210052"/>
@@ -1078,7 +1078,7 @@
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20210104</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisietekst.20210104"/>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.20210104"/>
                </vt:divisieaanduiding>
                <vt:hoofdlijnaanduiding>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.20210062"/>
@@ -1297,7 +1297,7 @@
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20210105</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisietekst.20210105"/>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.20210105"/>
                </vt:divisieaanduiding>
                <vt:hoofdlijnaanduiding>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.20210072"/>
@@ -1538,7 +1538,7 @@
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20210106</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisietekst.20210106"/>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.20210106"/>
                </vt:divisieaanduiding>
                <vt:hoofdlijnaanduiding>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.20210081"/>
@@ -1774,7 +1774,7 @@
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20220007</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisietekst.20220007"/>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.20220007"/>
                </vt:divisieaanduiding>
                <vt:hoofdlijnaanduiding>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.20210048"/>
@@ -1798,7 +1798,7 @@
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20220008</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisietekst.20220008"/>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.20220008"/>
                </vt:divisieaanduiding>
                <vt:hoofdlijnaanduiding>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.20210086"/>
@@ -1821,7 +1821,7 @@
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20220009</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisietekst.20220009"/>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.20220009"/>
                </vt:divisieaanduiding>
                <vt:hoofdlijnaanduiding>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.20210052"/>
@@ -1845,7 +1845,7 @@
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20220010</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisietekst.20220010"/>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.20220010"/>
                </vt:divisieaanduiding>
                <vt:hoofdlijnaanduiding>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.20210062"/>
@@ -1873,7 +1873,7 @@
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20220011</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisietekst.20220011"/>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.20220011"/>
                </vt:divisieaanduiding>
                <vt:hoofdlijnaanduiding>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.20210072"/>
@@ -1902,7 +1902,7 @@
                <vt:identificatie>nl.imow-mnre1034.tekstdeel.20220012</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisietekst.20220012"/>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.20220012"/>
                </vt:divisieaanduiding>
                <vt:hoofdlijnaanduiding>
                   <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.20210081"/>
