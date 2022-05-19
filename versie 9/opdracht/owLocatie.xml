@@ -27,6 +27,7 @@
          <ow-dc:owObject>
             <l:Ambtsgebied>
                <l:identificatie>nl.imow-mnre1034.ambtsgebied.20210001</l:identificatie>
+               <l:noemer>Nederland + EEZ</l:noemer>
                <l:bestuurlijkeGrenzenVerwijzing>
                   <l:BestuurlijkeGrenzenVerwijzing>
                      <l:bestuurlijkeGrenzenID>LND6030.B</l:bestuurlijkeGrenzenID>
