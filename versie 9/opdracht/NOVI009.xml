@@ -8221,8 +8221,8 @@
                            <table eId="cmp_o_1__div_3__content_o_1__table_o_1"
                                   wId="mnre1034_9__cmp_o_1__div_3__content_o_1__table_o_1"
                                   dso:class="standaard"
-                                  frame="all"
-                                  colsep="1"
+                                  frame="none"
+                                  colsep="0"
                                   rowsep="1">
                               <title>Tabel 1: Relatie van de nationale belangen in de NOVI met het Barro/Bro en het Bkl op basis van de belangen uit de SVIR</title>
                               <tgroup cols="5" align="left">
