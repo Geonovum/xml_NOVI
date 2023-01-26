@@ -15,7 +15,7 @@
                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                  xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
    <sl:standBestand>
-      <sl:dataset>/akn/nl/act/mnre1034/2021/NOVI010</sl:dataset>
+      <sl:dataset>/akn/nl/act/mnre1034/2021/novi0010</sl:dataset>
       <sl:inhoud>
          <sl:gebied>Nederland</sl:gebied>
          <sl:leveringsId>NOVI010-001</sl:leveringsId>

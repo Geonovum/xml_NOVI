@@ -32,15 +32,15 @@
          <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
       </BesluitMetadata>
       <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <bekendOp>2021-09-06</bekendOp>
+         <bekendOp>2020-09-15</bekendOp>
          <procedurestappen>
             <Procedurestap>
                <soortStap>/join/id/stop/procedure/stap_002</soortStap>
-               <voltooidOp>2021-09-06</voltooidOp>
+               <voltooidOp>2020-09-15</voltooidOp>
             </Procedurestap>
             <Procedurestap>
                <soortStap>/join/id/stop/procedure/stap_003</soortStap>
-               <voltooidOp>2021-09-07</voltooidOp>
+               <voltooidOp>2021-02-23</voltooidOp>
             </Procedurestap>
          </procedurestappen>
       </Procedureverloop>
@@ -50,7 +50,7 @@
                <doelen>
                   <doel>/join/id/proces/mnre1034/2021/InstellingVanNOVI</doel>
                </doelen>
-               <instrumentVersie>/akn/nl/act/mnre1034/2021/NOVI010/nld@2022-01-17;9</instrumentVersie>
+               <instrumentVersie>/akn/nl/act/mnre1034/2021/novi0010/nld@2023-01-27;10</instrumentVersie>
                <eId>art_I</eId>
             </BeoogdeRegeling>
          </BeoogdeRegelgeving>
@@ -58,7 +58,7 @@
             <Tijdstempel>
                <doel>/join/id/proces/mnre1034/2021/InstellingVanNOVI</doel>
                <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
-               <datum>2021-09-07</datum>
+               <datum>2021-02-23</datum>
                <eId>art_II</eId>
             </Tijdstempel>
          </Tijdstempels>
@@ -97,7 +97,7 @@
                <Opschrift>Nationale Omgevingsvisie</Opschrift>
             </Kop>
             <RegelingVrijetekst componentnaam="initieel_reg"
-                                wordt="/akn/nl/act/mnre1034/2021/NOVI010/nld@2022-01-17;9">
+                                wordt="/akn/nl/act/mnre1034/2021/novi0010/nld@2023-01-27;10">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Nationale Omgevingsvisie</Al>
                </RegelingOpschrift>
@@ -8997,8 +8997,8 @@
    </BesluitVersie>
    <RegelingVersieInformatie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/act/mnre1034/2021/NOVI010</FRBRWork>
-         <FRBRExpression>/akn/nl/act/mnre1034/2021/NOVI010/nld@2022-01-17;9</FRBRExpression>
+         <FRBRWork>/akn/nl/act/mnre1034/2021/novi0010</FRBRWork>
+         <FRBRExpression>/akn/nl/act/mnre1034/2021/novi0010/nld@2023-01-27;10</FRBRExpression>
          <soortWork>/join/id/stop/work_019</soortWork>
       </ExpressionIdentificatie>
       <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
