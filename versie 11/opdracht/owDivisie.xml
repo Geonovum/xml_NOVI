@@ -1,1917 +1,1917 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ow-dc:owBestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xmlns:xlink="http://www.w3.org/1999/xlink"
-  xmlns:gml="http://www.opengis.net/gml/3.2"
-  xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
-  xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
-  xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
-  xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
-  xmlns:l="http://www.geostandaarden.nl/imow/locatie"
-  xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
-  xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
-  xmlns:k="http://www.geostandaarden.nl/imow/kaart"
-  xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
-  <sl:standBestand>
-    <sl:dataset>/akn/nl/act/mnre1034/2023/NOVI011</sl:dataset>
-    <sl:inhoud>
-      <sl:gebied>Nederland</sl:gebied>
-      <sl:leveringsId>NOVI011-001</sl:leveringsId>
-      <sl:objectTypen>
-        <sl:objectType>Divisie</sl:objectType>
-        <sl:objectType>Divisietekst</sl:objectType>
-        <sl:objectType>Tekstdeel</sl:objectType>
-      </sl:objectTypen>
-    </sl:inhoud>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_2__content_o_1">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300001</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300001</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300001"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300003"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300004"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300005"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300006"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300008"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_2__content_2.1">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300002</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300002</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300002"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300003"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_2__content_2.2">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300003</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300003</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300003"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300004"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_2__content_2.3">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300004</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300004</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300004"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300005"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_2__content_2.4">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300005</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300005</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300005"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300006"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_2__content_2.5">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300006</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300006</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300006"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300008"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_3__content_o_1">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300007</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300007</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300007"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300019"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300020"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300021"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300022"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300023"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300024"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300026"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300028"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300029"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300030"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300031"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300033"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300035"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300036"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300038"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300040"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300041"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300042"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300043"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300046"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300047"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <!-- begin toevoeging versie 7 -->
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_3__content_3.1">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300101</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300101</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300101"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300019"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300020"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300021"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300022"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300023"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300024"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300026"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300028"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300029"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300030"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300031"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300033"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300035"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300036"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300038"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300040"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300041"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300042"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300043"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300046"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300047"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_3__div_3.2__content_o_1">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300102</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300102</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300102"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300019"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300020"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300021"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300022"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300023"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300024"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300026"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300028"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300029"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300030"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300031"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300033"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300035"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300036"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300038"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300040"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300041"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300042"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300043"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300046"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300047"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <!-- einde toevoeging versie 7 -->
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_3__div_3.2__content_1">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300008</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300008</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300008"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300019"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_3__div_3.2__content_2">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300009</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300009</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300009"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300020"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_3__div_3.2__content_3">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300010</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300010</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300010"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300021"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_3__div_3.2__content_4">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300011</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300011</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300011"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300022"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_3__div_3.2__content_5">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300012</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300012</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300012"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300023"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_3__div_3.2__content_6">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300013</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300013</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300013"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300024"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_3__div_3.2__content_7">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300014</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300014</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300014"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300026"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_3__div_3.2__content_8">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300015</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300015</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300015"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300028"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_3__div_3.2__content_9">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300016</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300016</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300016"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300029"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_3__div_3.2__content_10">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300017</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300017</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300017"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300030"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_3__div_3.2__content_11">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300018</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300018</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300018"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300031"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_3__div_3.2__content_12">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300019</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300019</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300019"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300033"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_3__div_3.2__content_13">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300020</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300020</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300020"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300035"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisie wId="mnre1034_1__div_3__div_3.2__div_14">
-          <vt:identificatie>nl.imow-mnre1034.divisie.202300021</vt:identificatie>
-        </vt:Divisie>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300021</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.202300021"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300036"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_3__div_3.2__content_15">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300022</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300022</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300022"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300038"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_3__div_3.2__content_16">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300023</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300023</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300023"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300040"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_3__div_3.2__content_17">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300024</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300024</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300024"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300041"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_3__div_3.2__content_18">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300025</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300025</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300025"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300042"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_3__div_3.2__content_19">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300026</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300026</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300026"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300043"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_3__div_3.2__content_20">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300027</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300027</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300027"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300046"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_3__div_3.2__content_21">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300028</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300028</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300028"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300047"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_3__div_3.4__content_o_1">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300029</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300029</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300029"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300048"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300049"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300050"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300051"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_3__div_3.4__content_1">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300030</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300030</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300030"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300048"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_3__div_3.4__content_2">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300031</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300031</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300031"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300049"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_3__div_3.4__content_3">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300032</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300032</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300032"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300050"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_3__div_3.4__content_4">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300033</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300033</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300033"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300051"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.1__content_o_1">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300035</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300035</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300035"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300086"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300087"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300088"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.1__content_o_2">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300036</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300036</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300036"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300086"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.1__content_o_3">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300037</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300037</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300037"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300087"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.1__content_o_4">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300038</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300038</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300038"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300088"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisie wId="mnre1034_1__div_4__div_4.2__div_4.2.1">
-          <vt:identificatie>nl.imow-mnre1034.divisie.202300039</vt:identificatie>
-        </vt:Divisie>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300039</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.202300039"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300048"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <!-- begin toevoeging versie 7 -->
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.1__content_o_1">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300103</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300103</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300103"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300052"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300054"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300056"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300059"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <!-- einde toevoeging versie 7 -->
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.1__content_o_2">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300040</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300040</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300040"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300052"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.1__content_o_3">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300041</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300041</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300041"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300054"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.1__content_o_4">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300042</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300042</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300042"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300056"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.1__content_o_5">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300043</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300043</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300043"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300059"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisie wId="mnre1034_1__div_4__div_4.2__div_4.2.2">
-          <vt:identificatie>nl.imow-mnre1034.divisie.202300044</vt:identificatie>
-        </vt:Divisie>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300044</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.202300044"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300049"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <!-- begin toevoeging versie 7 -->
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.2__content_o_1">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300104</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300104</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300104"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300062"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300063"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300064"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300066"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300067"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300069"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300070"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300071"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <!-- einde toevoeging versie 7 -->
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.2__content_o_2">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300045</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300045</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300045"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300062"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.2__content_o_3">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300046</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300046</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300046"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300063"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.2__content_o_4">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300047</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300047</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300047"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300064"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.2__content_o_5">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300048</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300048</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300048"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300066"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.2__content_o_6">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300049</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300049</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300049"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300067"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.2__content_o_7">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300050</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300050</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300050"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300069"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.2__content_o_8">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300051</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300051</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300051"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300070"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.2__content_o_9">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300052</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300052</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300052"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300071"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisie wId="mnre1034_1__div_4__div_4.2__div_4.2.3">
-          <vt:identificatie>nl.imow-mnre1034.divisie.202300053</vt:identificatie>
-        </vt:Divisie>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300053</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.202300053"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300050"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <!-- begin toevoeging versie 7 -->
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.3__content_o_1">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300105</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300105</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300105"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300072"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300073"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300074"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300075"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300076"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300077"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300078"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300079"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300080"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <!-- einde toevoeging versie 7 -->
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.3__content_o_2">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300054</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300054</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300054"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300072"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.3__content_o_3">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300055</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300055</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300055"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300073"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.3__content_o_4">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300056</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300056</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300056"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300074"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.3__content_o_5">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300057</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300057</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300057"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300075"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.3__content_o_6">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300058</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300058</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300058"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300076"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.3__content_o_7">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300059</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300059</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300059"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300077"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.3__content_o_8">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300060</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300060</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300060"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300078"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.3__content_o_9">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300061</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300061</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300061"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300079"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.3__content_o_10">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300062</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300062</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300062"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300080"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisie wId="mnre1034_1__div_4__div_4.2__div_4.2.4">
-          <vt:identificatie>nl.imow-mnre1034.divisie.202300063</vt:identificatie>
-        </vt:Divisie>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300063</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.202300063"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300051"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <!-- begin toevoeging versie 7 -->
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.4__content_o_1">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300106</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300106</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300106"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300081"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300082"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300084"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300085"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <!-- einde toevoeging versie 7 -->
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.4__content_o_2">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300064</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300064</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300064"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300081"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.4__content_o_3">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300065</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300065</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300065"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300082"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.4__content_o_4">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300066</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300066</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300066"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300084"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.4__content_o_5">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202300067</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300067</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300067"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300085"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <!-- begin toevoeging versie 8 -->
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__content_o_2">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202310001</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202310001</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202310001"/>
-          </vt:divisieaanduiding>
-          <vt:locatieaanduiding>
-            <l:LocatieRef xlink:href="nl.imow-mnre1034.ambtsgebied.202300001"/>
-          </vt:locatieaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisie wId="mnre1034_1__div_1">
-          <vt:identificatie>nl.imow-mnre1034.divisie.202310002</vt:identificatie>
-        </vt:Divisie>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202310002</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisie.202310002"/>
-          </vt:divisieaanduiding>
-          <vt:locatieaanduiding>
-            <l:LocatieRef xlink:href="nl.imow-mnre1034.ambtsgebied.202300001"/>
-          </vt:locatieaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisie wId="mnre1034_1__div_2">
-          <vt:identificatie>nl.imow-mnre1034.divisie.202310003</vt:identificatie>
-        </vt:Divisie>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202310003</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisie.202310003"/>
-          </vt:divisieaanduiding>
-          <vt:locatieaanduiding>
-            <l:LocatieRef xlink:href="nl.imow-mnre1034.ambtsgebied.202300001"/>
-          </vt:locatieaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisie wId="mnre1034_1__div_3">
-          <vt:identificatie>nl.imow-mnre1034.divisie.202310004</vt:identificatie>
-        </vt:Divisie>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202310004</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisie.202310004"/>
-          </vt:divisieaanduiding>
-          <vt:locatieaanduiding>
-            <l:LocatieRef xlink:href="nl.imow-mnre1034.ambtsgebied.202300001"/>
-          </vt:locatieaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisie wId="mnre1034_1__div_4">
-          <vt:identificatie>nl.imow-mnre1034.divisie.202310005</vt:identificatie>
-        </vt:Divisie>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202310005</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisie.202310005"/>
-          </vt:divisieaanduiding>
-          <vt:locatieaanduiding>
-            <l:LocatieRef xlink:href="nl.imow-mnre1034.ambtsgebied.202300001"/>
-          </vt:locatieaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisie wId="mnre1034_1__div_5">
-          <vt:identificatie>nl.imow-mnre1034.divisie.202310006</vt:identificatie>
-        </vt:Divisie>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202310006</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisie.202310006"/>
-          </vt:divisieaanduiding>
-          <vt:locatieaanduiding>
-            <l:LocatieRef xlink:href="nl.imow-mnre1034.ambtsgebied.202300001"/>
-          </vt:locatieaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_3__div_3.4__content_o_6">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202310007</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202310007</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202310007"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300048"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300049"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300050"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300051"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.1__content_o_5">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202310008</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202310008</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202310008"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300086"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300087"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300088"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.1__content_o_6">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202310009</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202310009</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202310009"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300052"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300054"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300056"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300059"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.2__content_o_10">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202310010</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202310010</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202310010"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300062"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300063"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300064"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300066"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300067"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300069"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300070"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300071"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.3__content_o_11">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202310011</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202310011</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202310011"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300072"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300073"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300074"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300075"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300076"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300077"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300078"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300079"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300080"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Divisietekst wId="mnre1034_1__div_4__div_4.2__div_4.2.4__content_o_6">
-          <vt:identificatie>nl.imow-mnre1034.divisietekst.202310012</vt:identificatie>
-        </vt:Divisietekst>
-      </ow-dc:owObject>
-    </sl:stand>
-    <sl:stand>
-      <ow-dc:owObject>
-        <vt:Tekstdeel>
-          <vt:identificatie>nl.imow-mnre1034.tekstdeel.202310012</vt:identificatie>
-          <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-          <vt:divisieaanduiding>
-            <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202310012"/>
-          </vt:divisieaanduiding>
-          <vt:hoofdlijnaanduiding>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300081"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300082"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300084"/>
-            <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202300085"/>
-          </vt:hoofdlijnaanduiding>
-        </vt:Tekstdeel>
-      </ow-dc:owObject>
-    </sl:stand>
-  </sl:standBestand>
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:gml="http://www.opengis.net/gml/3.2"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+                 xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+   <sl:standBestand>
+      <sl:dataset>/akn/nl/act/mnre1034/2021/novi0010</sl:dataset>
+      <sl:inhoud>
+         <sl:gebied>Nederland</sl:gebied>
+         <sl:leveringsId>NOVI010-001</sl:leveringsId>
+         <sl:objectTypen>
+            <sl:objectType>Divisie</sl:objectType>
+            <sl:objectType>Divisietekst</sl:objectType>
+            <sl:objectType>Tekstdeel</sl:objectType>
+         </sl:objectTypen>
+      </sl:inhoud>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_2__content_o_1">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200001</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200001</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200001"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200003"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200004"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200005"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200006"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200008"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_2__content_2.1">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200002</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200002</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200002"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200003"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_2__content_2.2">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200003</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200003</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200003"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200004"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_2__content_2.3">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200004</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200004</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200004"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200005"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_2__content_2.4">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200005</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200005</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200005"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200006"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_2__content_2.5">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200006</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200006</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200006"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200008"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_3__content_o_1">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200007</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200007</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200007"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200019"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200020"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200021"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200022"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200023"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200024"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200026"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200028"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200029"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200030"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200031"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200033"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200035"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200036"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200038"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200040"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200041"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200042"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200043"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200046"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200047"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!-- begin toevoeging versie 7 -->
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_3__content_3.1">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200101</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200101</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200101"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200019"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200020"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200021"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200022"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200023"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200024"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200026"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200028"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200029"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200030"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200031"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200033"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200035"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200036"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200038"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200040"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200041"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200042"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200043"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200046"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200047"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_3__div_3.2__content_o_1">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200102</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200102</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200102"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200019"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200020"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200021"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200022"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200023"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200024"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200026"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200028"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200029"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200030"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200031"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200033"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200035"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200036"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200038"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200040"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200041"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200042"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200043"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200046"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200047"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!-- einde toevoeging versie 7 -->
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_3__div_3.2__content_1">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200008</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200008</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200008"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200019"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_3__div_3.2__content_2">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200009</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200009</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200009"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200020"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_3__div_3.2__content_3">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200010</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200010</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200010"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200021"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_3__div_3.2__content_4">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200011</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200011</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200011"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200022"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_3__div_3.2__content_5">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200012</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200012</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200012"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200023"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_3__div_3.2__content_6">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200013</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200013</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200013"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200024"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_3__div_3.2__content_7">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200014</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200014</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200014"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200026"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_3__div_3.2__content_8">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200015</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200015</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200015"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200028"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_3__div_3.2__content_9">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200016</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200016</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200016"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200029"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_3__div_3.2__content_10">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200017</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200017</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200017"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200030"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_3__div_3.2__content_11">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200018</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200018</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200018"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200031"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_3__div_3.2__content_12">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200019</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200019</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200019"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200033"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_3__div_3.2__content_13">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200020</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200020</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200020"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200035"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisie wId="mnre1034_9__div_3__div_3.2__div_14">
+               <vt:identificatie>nl.imow-mnre1034.divisie.202200021</vt:identificatie>
+            </vt:Divisie>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200021</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.202200021"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200036"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_3__div_3.2__content_15">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200022</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200022</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200022"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200038"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_3__div_3.2__content_16">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200023</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200023</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200023"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200040"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_3__div_3.2__content_17">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200024</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200024</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200024"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200041"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_3__div_3.2__content_18">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200025</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200025</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200025"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200042"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_3__div_3.2__content_19">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200026</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200026</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200026"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200043"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_3__div_3.2__content_20">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200027</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200027</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200027"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200046"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_3__div_3.2__content_21">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200028</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200028</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200028"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200047"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_3__div_3.4__content_o_1">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200029</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200029</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200029"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200048"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200049"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200050"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200051"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_3__div_3.4__content_1">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200030</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200030</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200030"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200048"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_3__div_3.4__content_2">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200031</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200031</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200031"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200049"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_3__div_3.4__content_3">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200032</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200032</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200032"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200050"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_3__div_3.4__content_4">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200033</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200033</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200033"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200051"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.1__content_o_1">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200035</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200035</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200035"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200086"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200087"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200088"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.1__content_o_2">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200036</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200036</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200036"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200086"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.1__content_o_3">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200037</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200037</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200037"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200087"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.1__content_o_4">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200038</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200038</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200038"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200088"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisie wId="mnre1034_9__div_4__div_4.2__div_4.2.1">
+               <vt:identificatie>nl.imow-mnre1034.divisie.202200039</vt:identificatie>
+            </vt:Divisie>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200039</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.202200039"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200048"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!-- begin toevoeging versie 7 -->
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.1__content_o_1">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200103</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200103</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200103"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200052"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200054"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200056"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200059"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!-- einde toevoeging versie 7 -->
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.1__content_o_2">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200040</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200040</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200040"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200052"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.1__content_o_3">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200041</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200041</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200041"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200054"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.1__content_o_4">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200042</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200042</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200042"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200056"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.1__content_o_5">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200043</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200043</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200043"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200059"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisie wId="mnre1034_9__div_4__div_4.2__div_4.2.2">
+               <vt:identificatie>nl.imow-mnre1034.divisie.202200044</vt:identificatie>
+            </vt:Divisie>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200044</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.202200044"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200049"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!-- begin toevoeging versie 7 -->
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.2__content_o_1">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200104</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200104</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200104"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200062"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200063"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200064"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200066"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200067"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200069"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200070"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200071"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!-- einde toevoeging versie 7 -->
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.2__content_o_2">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200045</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200045</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200045"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200062"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.2__content_o_3">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200046</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200046</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200046"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200063"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.2__content_o_4">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200047</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200047</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200047"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200064"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.2__content_o_5">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200048</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200048</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200048"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200066"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.2__content_o_6">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200049</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200049</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200049"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200067"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.2__content_o_7">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200050</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200050</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200050"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200069"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.2__content_o_8">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200051</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200051</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200051"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200070"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.2__content_o_9">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200052</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200052</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200052"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200071"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisie wId="mnre1034_9__div_4__div_4.2__div_4.2.3">
+               <vt:identificatie>nl.imow-mnre1034.divisie.202200053</vt:identificatie>
+            </vt:Divisie>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200053</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.202200053"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200050"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!-- begin toevoeging versie 7 -->
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.3__content_o_1">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200105</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200105</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200105"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200072"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200073"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200074"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200075"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200076"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200077"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200078"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200079"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200080"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!-- einde toevoeging versie 7 -->
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.3__content_o_2">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200054</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200054</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200054"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200072"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.3__content_o_3">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200055</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200055</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200055"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200073"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.3__content_o_4">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200056</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200056</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200056"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200074"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.3__content_o_5">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200057</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200057</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200057"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200075"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.3__content_o_6">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200058</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200058</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200058"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200076"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.3__content_o_7">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200059</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200059</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200059"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200077"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.3__content_o_8">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200060</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200060</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200060"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200078"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.3__content_o_9">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200061</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200061</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200061"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200079"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.3__content_o_10">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200062</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200062</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200062"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200080"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisie wId="mnre1034_9__div_4__div_4.2__div_4.2.4">
+               <vt:identificatie>nl.imow-mnre1034.divisie.202200063</vt:identificatie>
+            </vt:Divisie>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200063</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisieRef xlink:href="nl.imow-mnre1034.divisie.202200063"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200051"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!-- begin toevoeging versie 7 -->
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.4__content_o_1">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200106</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200106</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200106"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200081"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200082"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200084"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200085"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!-- einde toevoeging versie 7 -->
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.4__content_o_2">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200064</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200064</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200064"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200081"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.4__content_o_3">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200065</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200065</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200065"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200082"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.4__content_o_4">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200066</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200066</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200066"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200084"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.4__content_o_5">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202200067</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202200067</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202200067"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200085"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!-- begin toevoeging versie 8 -->
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__content_o_2">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202300001</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300001</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300001"/>
+               </vt:divisieaanduiding>
+               <vt:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.ambtsgebied.202200001"/>
+               </vt:locatieaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisie wId="mnre1034_9__div_1">
+               <vt:identificatie>nl.imow-mnre1034.divisie.202300002</vt:identificatie>
+            </vt:Divisie>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300002</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisie.202300002"/>
+               </vt:divisieaanduiding>
+               <vt:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.ambtsgebied.202200001"/>
+               </vt:locatieaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisie wId="mnre1034_9__div_2">
+               <vt:identificatie>nl.imow-mnre1034.divisie.202300003</vt:identificatie>
+            </vt:Divisie>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300003</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisie.202300003"/>
+               </vt:divisieaanduiding>
+               <vt:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.ambtsgebied.202200001"/>
+               </vt:locatieaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisie wId="mnre1034_9__div_3">
+               <vt:identificatie>nl.imow-mnre1034.divisie.202300004</vt:identificatie>
+            </vt:Divisie>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300004</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisie.202300004"/>
+               </vt:divisieaanduiding>
+               <vt:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.ambtsgebied.202200001"/>
+               </vt:locatieaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisie wId="mnre1034_9__div_4">
+               <vt:identificatie>nl.imow-mnre1034.divisie.202300005</vt:identificatie>
+            </vt:Divisie>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300005</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisie.202300005"/>
+               </vt:divisieaanduiding>
+               <vt:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.ambtsgebied.202200001"/>
+               </vt:locatieaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisie wId="mnre1034_9__div_5">
+               <vt:identificatie>nl.imow-mnre1034.divisie.202300006</vt:identificatie>
+            </vt:Divisie>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300006</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisie.202300006"/>
+               </vt:divisieaanduiding>
+               <vt:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-mnre1034.ambtsgebied.202200001"/>
+               </vt:locatieaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_3__div_3.4__content_o_6">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202300007</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300007</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300007"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200048"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200049"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200050"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200051"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.1__content_o_5">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202300008</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300008</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300008"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200086"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200087"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200088"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.1__content_o_6">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202300009</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300009</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300009"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200052"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200054"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200056"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200059"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.2__content_o_10">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202300010</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300010</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300010"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200062"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200063"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200064"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200066"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200067"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200069"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200070"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200071"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.3__content_o_11">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202300011</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300011</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300011"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200072"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200073"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200074"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200075"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200076"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200077"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200078"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200079"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200080"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Divisietekst wId="mnre1034_9__div_4__div_4.2__div_4.2.4__content_o_6">
+               <vt:identificatie>nl.imow-mnre1034.divisietekst.202300012</vt:identificatie>
+            </vt:Divisietekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <vt:Tekstdeel>
+               <vt:identificatie>nl.imow-mnre1034.tekstdeel.202300012</vt:identificatie>
+               <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
+               <vt:divisieaanduiding>
+                  <vt:DivisietekstRef xlink:href="nl.imow-mnre1034.divisietekst.202300012"/>
+               </vt:divisieaanduiding>
+               <vt:hoofdlijnaanduiding>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200081"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200082"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200084"/>
+                  <vt:HoofdlijnRef xlink:href="nl.imow-mnre1034.hoofdlijn.202200085"/>
+               </vt:hoofdlijnaanduiding>
+            </vt:Tekstdeel>
+         </ow-dc:owObject>
+      </sl:stand>
+   </sl:standBestand>
 </ow-dc:owBestand>
